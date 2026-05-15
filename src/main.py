@@ -9,8 +9,9 @@ from pathlib import Path
 # Ensure src/ siblings are importable
 sys.path.insert(0, str(Path(__file__).parent))
 
-from compare  import compare_thinkers, print_comparison
-from timeline import build_timeline, print_timeline, timeline_summary
+from compare    import compare_thinkers, print_comparison
+from timeline   import build_timeline, print_timeline, timeline_summary
+from traditions import build_tradition_map, print_tradition_map, tradition_detail
 
 DATA_FILE = Path(__file__).parent.parent / "data" / "books.json"
 
@@ -138,11 +139,13 @@ def main():
             "  py src/main.py search-concept justice\n"
             "  py src/main.py search-tradition Stoicism\n"
             "  py src/main.py show Republic\n"
-            "  py src/main.py compare Plato Aristotle\n"
             "  py src/main.py similar Republic\n"
+            "  py src/main.py compare Plato Aristotle\n"
             "  py src/main.py timeline\n"
             "  py src/main.py timeline --tradition Stoicism\n"
             "  py src/main.py timeline --start -400 --end 200\n"
+            "  py src/main.py traditions\n"
+            "  py src/main.py traditions --detail Existentialism\n"
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
@@ -183,6 +186,10 @@ def main():
     p.add_argument("--start",     type=int, default=None, help="Start year")
     p.add_argument("--end",       type=int, default=None, help="End year")
     p.add_argument("--tradition", default=None,           help="Filter by tradition")
+
+    # traditions
+    p = sub.add_parser("traditions", help="Map philosophical traditions")
+    p.add_argument("--detail", default=None, help="Show detail for one tradition")
 
     args = parser.parse_args()
 
@@ -230,7 +237,13 @@ def main():
         tl = build_timeline(books, args.start, args.end)
         print_timeline(tl, args.tradition)
 
+    elif args.command == "traditions":
+        trads, connections = build_tradition_map(books)
+        if args.detail:
+            tradition_detail(trads, connections, args.detail)
+        else:
+            print_tradition_map(trads, connections)
+
 
 if __name__ == "__main__":
     main()
-    
