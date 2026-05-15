@@ -4,99 +4,2235 @@
     "author": "Plato",
     "year": -380,
     "tradition": "Ancient Greek",
-    "key_concepts": ["justice", "the good", "philosopher-king", "the soul", "ideal state"],
+    "key_concepts": [
+      "justice",
+      "the good",
+      "philosopher-king",
+      "the soul",
+      "ideal state"
+    ],
     "short_summary": "Plato's dialogue exploring the nature of justice, the ideal city-state, and the philosopher's role in governance.",
     "central_argument": "Justice is harmony — each part of the soul and city doing its proper function. Only philosopher-kings, who know the Form of the Good, are fit to rule.",
-    "related_books": ["Nicomachean Ethics", "Leviathan", "A Theory of Justice"]
+    "related_books": [
+      "Nicomachean Ethics",
+      "Leviathan",
+      "A Theory of Justice"
+    ]
   },
   {
     "title": "Nicomachean Ethics",
     "author": "Aristotle",
     "year": -340,
     "tradition": "Ancient Greek",
-    "key_concepts": ["virtue", "eudaimonia", "the golden mean", "practical wisdom", "friendship"],
+    "key_concepts": [
+      "virtue",
+      "eudaimonia",
+      "the golden mean",
+      "practical wisdom",
+      "friendship"
+    ],
     "short_summary": "Aristotle's systematic account of how humans can live well and achieve happiness through virtuous activity.",
     "central_argument": "Happiness (eudaimonia) is not a feeling but an activity — living and functioning well according to virtue over a complete life.",
-    "related_books": ["Republic", "Meditations", "The Nicomachean Ethics Commentary"]
+    "related_books": [
+      "Republic",
+      "Meditations",
+      "The Nicomachean Ethics Commentary"
+    ]
   },
   {
     "title": "Meditations",
     "author": "Marcus Aurelius",
     "year": 180,
     "tradition": "Stoicism",
-    "key_concepts": ["stoicism", "virtue", "duty", "impermanence", "reason", "self-discipline"],
+    "key_concepts": [
+      "stoicism",
+      "virtue",
+      "duty",
+      "impermanence",
+      "reason",
+      "self-discipline"
+    ],
     "short_summary": "Personal writings of the Roman emperor Marcus Aurelius — a private journal of Stoic philosophical practice.",
     "central_argument": "We cannot control external events, only our responses. Virtue and reason are the only true goods. Death and change are natural — accept them.",
-    "related_books": ["Nicomachean Ethics", "Thus Spoke Zarathustra", "The Enchiridion"]
+    "related_books": [
+      "Nicomachean Ethics",
+      "Thus Spoke Zarathustra",
+      "The Enchiridion"
+    ]
   },
   {
     "title": "Leviathan",
     "author": "Thomas Hobbes",
     "year": 1651,
     "tradition": "Political Philosophy",
-    "key_concepts": ["social contract", "state of nature", "sovereignty", "power", "commonwealth"],
+    "key_concepts": [
+      "social contract",
+      "state of nature",
+      "sovereignty",
+      "power",
+      "commonwealth"
+    ],
     "short_summary": "Hobbes argues that without political authority, human life is war of all against all, requiring a sovereign to maintain peace.",
     "central_argument": "In the state of nature life is 'solitary, poor, nasty, brutish, and short.' Rational agents agree to a social contract surrendering freedoms to a sovereign for security.",
-    "related_books": ["Republic", "Second Treatise of Government", "The Social Contract"]
+    "related_books": [
+      "Republic",
+      "Second Treatise of Government",
+      "The Social Contract"
+    ]
   },
   {
     "title": "Second Treatise of Government",
     "author": "John Locke",
     "year": 1689,
     "tradition": "Political Philosophy",
-    "key_concepts": ["natural rights", "consent", "property", "revolution", "social contract"],
+    "key_concepts": [
+      "natural rights",
+      "consent",
+      "property",
+      "revolution",
+      "social contract"
+    ],
     "short_summary": "Locke argues that legitimate government derives from the consent of the governed and must protect natural rights.",
     "central_argument": "People have natural rights to life, liberty, and property. Government is legitimate only by consent. When it violates rights, revolution is justified.",
-    "related_books": ["Leviathan", "The Social Contract", "A Theory of Justice"]
+    "related_books": [
+      "Leviathan",
+      "The Social Contract",
+      "A Theory of Justice"
+    ]
   },
   {
     "title": "Critique of Pure Reason",
     "author": "Immanuel Kant",
     "year": 1781,
     "tradition": "German Idealism",
-    "key_concepts": ["a priori", "categories of understanding", "phenomena", "noumena", "transcendental idealism"],
+    "key_concepts": [
+      "a priori",
+      "categories of understanding",
+      "phenomena",
+      "noumena",
+      "transcendental idealism"
+    ],
     "short_summary": "Kant's investigation into the conditions and limits of human knowledge, synthesizing rationalism and empiricism.",
     "central_argument": "The mind actively structures experience. Space, time, and categories like causality are frameworks the mind imposes on reality — not features of things-in-themselves.",
-    "related_books": ["Phenomenology of Spirit", "Tractatus Logico-Philosophicus", "Meditations on First Philosophy"]
+    "related_books": [
+      "Phenomenology of Spirit",
+      "Tractatus Logico-Philosophicus",
+      "Meditations on First Philosophy"
+    ]
   },
   {
     "title": "Phenomenology of Spirit",
     "author": "G.W.F. Hegel",
     "year": 1807,
     "tradition": "German Idealism",
-    "key_concepts": ["dialectic", "spirit", "consciousness", "master-slave", "absolute knowing"],
+    "key_concepts": [
+      "dialectic",
+      "spirit",
+      "consciousness",
+      "master-slave",
+      "absolute knowing"
+    ],
     "short_summary": "Hegel traces the development of consciousness from simple sense-perception to absolute knowing through dialectical stages.",
     "central_argument": "Consciousness develops through contradiction and resolution (thesis-antithesis-synthesis). Spirit (Geist) realizes itself through history and human self-understanding.",
-    "related_books": ["Critique of Pure Reason", "Thus Spoke Zarathustra", "Being and Time"]
+    "related_books": [
+      "Critique of Pure Reason",
+      "Thus Spoke Zarathustra",
+      "Being and Time"
+    ]
   },
   {
     "title": "Thus Spoke Zarathustra",
     "author": "Friedrich Nietzsche",
     "year": 1883,
     "tradition": "Existentialism",
-    "key_concepts": ["will to power", "eternal recurrence", "Übermensch", "nihilism", "slave morality"],
+    "key_concepts": [
+      "will to power",
+      "eternal recurrence",
+      "Übermensch",
+      "nihilism",
+      "slave morality"
+    ],
     "short_summary": "Through the prophet Zarathustra, Nietzsche proclaims the death of God and calls for a revaluation of all values.",
     "central_argument": "With God dead, humanity must create its own values. The Übermensch embraces life, affirms eternal recurrence, and overcomes nihilism through creative will.",
-    "related_books": ["Being and Time", "Phenomenology of Spirit", "Meditations"]
+    "related_books": [
+      "Being and Time",
+      "Phenomenology of Spirit",
+      "Meditations"
+    ]
   },
   {
     "title": "Being and Time",
     "author": "Martin Heidegger",
     "year": 1927,
     "tradition": "Existentialism",
-    "key_concepts": ["Dasein", "being-in-the-world", "authenticity", "thrownness", "death", "care"],
+    "key_concepts": [
+      "Dasein",
+      "being-in-the-world",
+      "authenticity",
+      "thrownness",
+      "death",
+      "care"
+    ],
     "short_summary": "Heidegger investigates the meaning of Being through analysis of human existence (Dasein) and our relationship with time.",
     "central_argument": "Humans are 'thrown' into existence without choosing it. Authentic existence means owning one's finitude and living toward death rather than fleeing into 'the they'.",
-    "related_books": ["Thus Spoke Zarathustra", "Phenomenology of Spirit", "Nausea"]
+    "related_books": [
+      "Thus Spoke Zarathustra",
+      "Phenomenology of Spirit",
+      "Nausea"
+    ]
   },
   {
     "title": "A Theory of Justice",
     "author": "John Rawls",
     "year": 1971,
     "tradition": "Political Philosophy",
-    "key_concepts": ["veil of ignorance", "original position", "difference principle", "fairness", "liberty"],
+    "key_concepts": [
+      "veil of ignorance",
+      "original position",
+      "difference principle",
+      "fairness",
+      "liberty"
+    ],
     "short_summary": "Rawls constructs principles of justice that rational agents would choose if they did not know their place in society.",
     "central_argument": "Justice is fairness. Behind a veil of ignorance, rational agents choose: equal basic liberties for all, and social inequalities only if they benefit the least advantaged.",
-    "related_books": ["Republic", "Second Treatise of Government", "Leviathan"]
+    "related_books": [
+      "Republic",
+      "Second Treatise of Government",
+      "Leviathan"
+    ]
+  },
+  {
+    "title": "πολιτεία",
+    "author": "Πλάτων",
+    "year": 1554,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "justice",
+      "political ethics"
+    ],
+    "short_summary": "A philosophical work by Πλάτων (1554).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Συμπόσιον",
+    "author": "Πλάτων",
+    "year": 1559,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "soul",
+      "theory of knowledge"
+    ],
+    "short_summary": "A philosophical work by Πλάτων (1559).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Ἀπολογία Σωκράτους",
+    "author": "Πλάτων",
+    "year": 1675,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "language and languages, study and teaching"
+    ],
+    "short_summary": "A philosophical work by Πλάτων (1675).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The Dialogues of Plato / The Seventh Letter",
+    "author": "Πλάτων",
+    "year": 1952,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "ethics",
+      "language and languages"
+    ],
+    "short_summary": "A philosophical work by Πλάτων (1952).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Εὐθύφρων / Κρίτων / Φαίδων / Ἀπολογία Σωκράτους",
+    "author": "Πλάτων",
+    "year": 1871,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "body, mind & spirit",
+      "metaphysics"
+    ],
+    "short_summary": "A philosophical work by Πλάτων (1871).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Φαίδων",
+    "author": "Πλάτων",
+    "year": 1713,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "soul"
+    ],
+    "short_summary": "A philosophical work by Πλάτων (1713).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Plato and Platonism",
+    "author": "Walter Pater",
+    "year": 1893,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Walter Pater (1893).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Τίμαιος",
+    "author": "Πλάτων",
+    "year": 1520,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "metaphysics",
+      "nature"
+    ],
+    "short_summary": "A philosophical work by Πλάτων (1520).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "La Poetica",
+    "author": "Aristotle",
+    "year": 1479,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "metaphysics",
+      "ethics, greece",
+      "athens (greece), politics and government"
+    ],
+    "short_summary": "A philosophical work by Aristotle (1479).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Πολιτικά (Politiká)",
+    "author": "Aristotle",
+    "year": 1492,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "politics and government",
+      "greek language materials"
+    ],
+    "short_summary": "A philosophical work by Aristotle (1492).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Poetics",
+    "author": "Aristotle",
+    "year": 1536,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "greek language"
+    ],
+    "short_summary": "A philosophical work by Aristotle (1536).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Physics",
+    "author": "Aristotle",
+    "year": 1472,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "philosophy of nature"
+    ],
+    "short_summary": "A philosophical work by Aristotle (1472).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Aristotle's philosophy of mathematics",
+    "author": "Hippocrates George Apostle",
+    "year": 1952,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Hippocrates George Apostle (1952).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The story of Aristotle's philosophy",
+    "author": "Will Durant",
+    "year": 1923,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Will Durant (1923).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Hegel's critique of Aristotle's philosophy of mind",
+    "author": "Frederick Gustav Weiss",
+    "year": 1969,
+    "tradition": "Ancient Greek",
+    "key_concepts": [
+      "philosophy of mind",
+      "mind and body"
+    ],
+    "short_summary": "A philosophical work by Frederick Gustav Weiss (1969).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The discourses of Epictetus",
+    "author": "Epictetus",
+    "year": 1800,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Epictetus (1800).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Manual",
+    "author": "Epictetus",
+    "year": 1655,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "ancient ethics",
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by Epictetus (1655).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Art of Living",
+    "author": "Epictetus",
+    "year": 1995,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "ancient ethics",
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by Epictetus (1995).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Epictetus",
+    "author": "Epictetus",
+    "year": 1916,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Epictetus (1916).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Discourses",
+    "author": "Epictetus",
+    "year": 1766,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "ethics",
+      "ethics, ancient"
+    ],
+    "short_summary": "A philosophical work by Epictetus (1766).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The moral discourses of Epictetus",
+    "author": "Epictetus",
+    "year": 1899,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by Epictetus (1899).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The Enchiridion",
+    "author": "Epictetus",
+    "year": 1955,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "ethics, ancient"
+    ],
+    "short_summary": "A philosophical work by Epictetus (1955).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The Epictetus Club",
+    "author": "Jeff Traylor",
+    "year": 2004,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Jeff Traylor (2004).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The Meditations of Marcus Aurelius",
+    "author": "Marcus Aurelius",
+    "year": 2018,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Marcus Aurelius (2018).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Meditaciones",
+    "author": "Marcus Aurelius",
+    "year": 2012,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Marcus Aurelius (2012).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Meditations by Marcus Aurelius",
+    "author": "Marcus Aurelius",
+    "year": 2016,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Marcus Aurelius (2016).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "How to Think Like a Roman Emperor",
+    "author": "Donald Robertson",
+    "year": 2019,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Donald Robertson (2019).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The Meditations",
+    "author": "Marcus Aurelius",
+    "year": 2002,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by Marcus Aurelius (2002).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Marcus Aurelius",
+    "author": "Anthony Richard Birley",
+    "year": 1966,
+    "tradition": "Stoicism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Anthony Richard Birley (1966).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Kritik der reinen Vernunft",
+    "author": "Immanuel Kant",
+    "year": 1781,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "reason",
+      "theory of knowledge",
+      "sociology of knowledge",
+      "knowledge",
+      "knowledge, theory of"
+    ],
+    "short_summary": "A philosophical work by Immanuel Kant (1781).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Kritik der praktischen Vernunft",
+    "author": "Immanuel Kant",
+    "year": 1788,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "ethics",
+      "reason",
+      "practical reason",
+      "theory of knowledge",
+      "modern ethics"
+    ],
+    "short_summary": "A philosophical work by Immanuel Kant (1788).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Kritik der Urteilskraft",
+    "author": "Immanuel Kant",
+    "year": 1793,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "judgment (logic)",
+      "judgement (logic)",
+      "epistemology"
+    ],
+    "short_summary": "A philosophical work by Immanuel Kant (1793).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "A commentary to Kant's Critique of pure reason",
+    "author": "Norman Kemp Smith",
+    "year": 1918,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "reasoning"
+    ],
+    "short_summary": "A philosophical work by Norman Kemp Smith (1918).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "A commentary on Kant's Critique of practical reason",
+    "author": "Lewis White Beck",
+    "year": 1960,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Lewis White Beck (1960).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "A commentary on Kant's Critique of judgment",
+    "author": "H. W. Cassirer",
+    "year": 1938,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by H. W. Cassirer (1938).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "A short commentary on Kant's Critique of pure reason",
+    "author": "Ewing, A. C.",
+    "year": 1938,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "knowledge, theory of",
+      "reason",
+      "theory of knowledge"
+    ],
+    "short_summary": "A philosophical work by Ewing, A. C. (1938).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Kant's Critique of pure reason",
+    "author": "Thomas Dewar Weldon",
+    "year": 1958,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "theory of knowledge",
+      "reason"
+    ],
+    "short_summary": "A philosophical work by Thomas Dewar Weldon (1958).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Hegel",
+    "author": "H. S. Harris",
+    "year": 1995,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by H. S. Harris (1995).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Hegel's Phenomenology",
+    "author": "Norman, Richard",
+    "year": 1976,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "consciousness",
+      "knowledge, theory of",
+      "theory of knowledge",
+      "truth"
+    ],
+    "short_summary": "A philosophical work by Norman, Richard (1976).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Hegel's Phenomenology of spirit",
+    "author": "Georg Wilhelm Friedrich Hegel",
+    "year": 1994,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "theory of knowledge",
+      "consciousness",
+      "truth",
+      "knowledge, theory of"
+    ],
+    "short_summary": "A philosophical work by Georg Wilhelm Friedrich Hegel (1994).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "History and truth in Hegel's Phenomenology",
+    "author": "Merold Westphal",
+    "year": 1979,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "consciousness",
+      "knowledge, theory of",
+      "theory of knowledge",
+      "truth"
+    ],
+    "short_summary": "A philosophical work by Merold Westphal (1979).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Hegel's 'Phenomenology of Spirit'",
+    "author": "Larry Krasnoff",
+    "year": 2008,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Larry Krasnoff (2008).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Hegel's Phenomenology of spirit",
+    "author": "Dean Moyar",
+    "year": 2008,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "consciousness",
+      "truth"
+    ],
+    "short_summary": "A philosophical work by Dean Moyar (2008).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The Blackwell guide to Hegel's Phenomenology of spirit",
+    "author": "Kenneth R. Westphal",
+    "year": 2009,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "consciousness",
+      "truth"
+    ],
+    "short_summary": "A philosophical work by Kenneth R. Westphal (2009).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Hegel's Phenomenology and Foucault's Genealogy",
+    "author": "Evangelia Sembou",
+    "year": 2016,
+    "tradition": "German Idealism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Evangelia Sembou (2016).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Jenseits von Gut und Böse",
+    "author": "Friedrich Nietzsche",
+    "year": 1885,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "ethics",
+      "ethics (philosophy)"
+    ],
+    "short_summary": "A philosophical work by Friedrich Nietzsche (1885).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Also sprach Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "year": 1883,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "german language",
+      "german language, conversation and phrase books"
+    ],
+    "short_summary": "A philosophical work by Friedrich Nietzsche (1883).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Der Antichrist",
+    "author": "Friedrich Nietzsche",
+    "year": 1895,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by Friedrich Nietzsche (1895).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "When Nietzsche Wept",
+    "author": "Irvin D. Yalom",
+    "year": 1992,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "fiction, psychological"
+    ],
+    "short_summary": "A philosophical work by Irvin D. Yalom (1992).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Die Geburt der Tragödie",
+    "author": "Friedrich Nietzsche",
+    "year": 1872,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by Friedrich Nietzsche (1872).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Zur Genealogie der Moral",
+    "author": "Friedrich Nietzsche",
+    "year": 1887,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "ethics",
+      "ethics & moral philosophy",
+      "ethics (philosophy)"
+    ],
+    "short_summary": "A philosophical work by Friedrich Nietzsche (1887).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Nietzsche et la philosophie",
+    "author": "Gilles Deleuze",
+    "year": 1962,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Gilles Deleuze (1962).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The philosophy of Nietzsche",
+    "author": "Friedrich Nietzsche",
+    "year": 1900,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Friedrich Nietzsche (1900).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Sein und Zeit",
+    "author": "Martin Heidegger",
+    "year": 1927,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "ontology",
+      "metaphysics",
+      "ontology (metaphysics)"
+    ],
+    "short_summary": "A philosophical work by Martin Heidegger (1927).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Martin Heidegger",
+    "author": "George Steiner",
+    "year": 1978,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by George Steiner (1978).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Nietzsche",
+    "author": "Martin Heidegger",
+    "year": 1961,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "metaphysics"
+    ],
+    "short_summary": "A philosophical work by Martin Heidegger (1961).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Dr. Heidegger's Experiment and Other Stories",
+    "author": "Nathaniel Hawthorne",
+    "year": 1902,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Nathaniel Hawthorne (1902).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Gelassenheit",
+    "author": "Martin Heidegger",
+    "year": 1959,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "ontology"
+    ],
+    "short_summary": "A philosophical work by Martin Heidegger (1959).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Unterwegs zur Sprache",
+    "author": "Martin Heidegger",
+    "year": 1959,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "language and languages",
+      "language and languages -- philosophy",
+      "language",
+      "language development"
+    ],
+    "short_summary": "A philosophical work by Martin Heidegger (1959).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Was heisst Denken?",
+    "author": "Martin Heidegger",
+    "year": 1954,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Martin Heidegger (1954).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The question concerning technology, and other essays",
+    "author": "Martin Heidegger",
+    "year": 1977,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "ontology"
+    ],
+    "short_summary": "A philosophical work by Martin Heidegger (1977).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "La nausée",
+    "author": "Jean-Paul Sartre",
+    "year": 1938,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Jean-Paul Sartre (1938).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Existentialism Is a Humanism",
+    "author": "Jean-Paul Sartre",
+    "year": 2007,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Jean-Paul Sartre (2007).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Sartre's existential biographies",
+    "author": "Michael Scriven",
+    "year": 1983,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "knowledge and learning"
+    ],
+    "short_summary": "A philosophical work by Michael Scriven (1983).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Sartre's Existential Psychoanalysis",
+    "author": "Mary L. Edwards",
+    "year": 2022,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Mary L. Edwards (2022).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "L'être et le néant",
+    "author": "Jean-Paul Sartre",
+    "year": 1943,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "ontology"
+    ],
+    "short_summary": "A philosophical work by Jean-Paul Sartre (1943).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Existentialism from Dostoevsky to Sartre",
+    "author": "Walter Arnold Kaufmann",
+    "year": 1956,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Walter Arnold Kaufmann (1956).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Existentialism",
+    "author": "Unknown Author",
+    "year": 1975,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Unknown Author (1975).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "L' existentialisme est un humanisme",
+    "author": "Jean-Paul Sartre",
+    "year": 1946,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "french language materials"
+    ],
+    "short_summary": "A philosophical work by Jean-Paul Sartre (1946).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Justice as Fairness",
+    "author": "John Rawls",
+    "year": 1958,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "justice",
+      "ethics",
+      "justice (philosophy)",
+      "social justice",
+      "justice sociale"
+    ],
+    "short_summary": "A philosophical work by John Rawls (1958).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "John Rawls Justice As Fairness . Begrenzte Lehre Oder Universelle Moraltheorie der Gerechtigkeit?",
+    "author": "Julius Bonaventura",
+    "year": 2019,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Julius Bonaventura (2019).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Understanding John Rawls",
+    "author": "Hercules Bantas",
+    "year": 2010,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Hercules Bantas (2010).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Political liberalism",
+    "author": "John Rawls",
+    "year": 1993,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "justice",
+      "justice sociale",
+      "justice distributive"
+    ],
+    "short_summary": "A philosophical work by John Rawls (1993).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "John Rawls and Environmental Justice",
+    "author": "John Töns",
+    "year": 2021,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "environmental justice",
+      "social justice",
+      "nature / general",
+      "nature / ecology",
+      "theory of justice (rawls, john)"
+    ],
+    "short_summary": "A philosophical work by John Töns (2021).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Symposium: John Rawl's A theory of justice.",
+    "author": "Unknown Author",
+    "year": 1973,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Unknown Author (1973).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Human nature",
+    "author": "Thomas Hobbes",
+    "year": 1684,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "ethics",
+      "droit naturel"
+    ],
+    "short_summary": "A philosophical work by Thomas Hobbes (1684).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The English works of Thomas Hobbes of Malmesbury",
+    "author": "Thomas Hobbes",
+    "year": 1839,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Thomas Hobbes (1839).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "De cive",
+    "author": "Thomas Hobbes",
+    "year": 1949,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "consciousness",
+      "psychological models"
+    ],
+    "short_summary": "A philosophical work by Thomas Hobbes (1949).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Leviatán",
+    "author": "Thomas Hobbes",
+    "year": 2018,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Thomas Hobbes (2018).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Essay concerning human understanding",
+    "author": "John Locke",
+    "year": 1689,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "theory of knowledge",
+      "knowledge",
+      "knowledge, theory of"
+    ],
+    "short_summary": "A philosophical work by John Locke (1689).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The works of John Locke",
+    "author": "John Locke",
+    "year": 1714,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by John Locke (1714).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Some thoughts concerning education",
+    "author": "John Locke",
+    "year": 1693,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "theory of knowledge",
+      "reasoning",
+      "knowledge, theory of"
+    ],
+    "short_summary": "A philosophical work by John Locke (1693).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "John Locke",
+    "author": "Maurice Cranston",
+    "year": 1957,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Maurice Cranston (1957).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Essay concerning the true original extent and end of civil government",
+    "author": "John Locke",
+    "year": 1691,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by John Locke (1691).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Two Treatises on Government",
+    "author": "John Locke",
+    "year": 1689,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "politics"
+    ],
+    "short_summary": "A philosophical work by John Locke (1689).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The conduct of the understanding",
+    "author": "John Locke",
+    "year": 1781,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "reasoning",
+      "theory of knowledge",
+      "knowledge, theory of.",
+      "knowledge"
+    ],
+    "short_summary": "A philosophical work by John Locke (1781).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The Second Treatise on Civil Government (Great Books in Philosophy)",
+    "author": "John Locke",
+    "year": 1956,
+    "tradition": "Political Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by John Locke (1956).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Philosophical essays concerning human understanding",
+    "author": "David Hume",
+    "year": 1900,
+    "tradition": "Empiricism",
+    "key_concepts": [
+      "theory of knowledge",
+      "ethics",
+      "knowledge, theory of"
+    ],
+    "short_summary": "A philosophical work by David Hume (1900).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Dialogues Concerning Natural Religion",
+    "author": "David Hume",
+    "year": 1779,
+    "tradition": "Empiricism",
+    "key_concepts": [
+      "théologie naturelle"
+    ],
+    "short_summary": "A philosophical work by David Hume (1779).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "A treatise of human nature",
+    "author": "David Hume",
+    "year": 1739,
+    "tradition": "Empiricism",
+    "key_concepts": [
+      "theory of knowledge",
+      "ethics",
+      "knowledge",
+      "knowledge, theory of",
+      "reason"
+    ],
+    "short_summary": "A philosophical work by David Hume (1739).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Treatise of Human Nature [by D. Hume]",
+    "author": "David Hume",
+    "year": 2015,
+    "tradition": "Empiricism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by David Hume (2015).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The history of England",
+    "author": "David Hume",
+    "year": 1754,
+    "tradition": "Empiricism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by David Hume (1754).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The life of David Hume",
+    "author": "Ernest Campbell Mossner",
+    "year": 1954,
+    "tradition": "Empiricism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Ernest Campbell Mossner (1954).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "An enquiry concerning the principles of morals",
+    "author": "David Hume",
+    "year": 1751,
+    "tradition": "Empiricism",
+    "key_concepts": [
+      "ethics",
+      "humanistic ethics"
+    ],
+    "short_summary": "A philosophical work by David Hume (1751).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The essential David Hume",
+    "author": "David Hume",
+    "year": 1969,
+    "tradition": "Empiricism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by David Hume (1969).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Discours de la méthode",
+    "author": "René Descartes",
+    "year": 1644,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "theory of knowledge",
+      "metaphysics",
+      "french language"
+    ],
+    "short_summary": "A philosophical work by René Descartes (1644).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Meditationes de prima philosophia",
+    "author": "René Descartes",
+    "year": 1642,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "god",
+      "knowledge, theory of",
+      "metaphysics",
+      "ontological proof",
+      "proof, ontological"
+    ],
+    "short_summary": "A philosophical work by René Descartes (1642).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The great conversation",
+    "author": "Norman Melchert",
+    "year": 1991,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Norman Melchert (1991).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Three reformers",
+    "author": "Jacques Maritain",
+    "year": 1925,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "godsdienst"
+    ],
+    "short_summary": "A philosophical work by Jacques Maritain (1925).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Descartes",
+    "author": "René Descartes",
+    "year": 1909,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by René Descartes (1909).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Principia philosophiae",
+    "author": "René Descartes",
+    "year": 1644,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by René Descartes (1644).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Descartes' error",
+    "author": "Antonio R. Damasio",
+    "year": 1994,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "physiological aspects",
+      "physiological aspects of emotions",
+      "physiological aspects of reason",
+      "reason"
+    ],
+    "short_summary": "A philosophical work by Antonio R. Damasio (1994).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Descartes' Dream",
+    "author": "Philip J. Davis",
+    "year": 1986,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Philip J. Davis (1986).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Ethica",
+    "author": "Benedictus de Spinoza",
+    "year": 1883,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "god",
+      "ethics",
+      "modern ethics",
+      "ethics, modern",
+      "knowledge, theory of"
+    ],
+    "short_summary": "A philosophical work by Benedictus de Spinoza (1883).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Spinoza's Ethics",
+    "author": "Beth Lord",
+    "year": 2010,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by Beth Lord (2010).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Spinoza's Ethics",
+    "author": "Michael LeBuffe",
+    "year": 2023,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Michael LeBuffe (2023).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Spinoza's 'Ethics'",
+    "author": "Steven Nadler",
+    "year": 2006,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by Steven Nadler (2006).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Spinoza's 'ethics'",
+    "author": "J. Thomas Cook",
+    "year": 2007,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by J. Thomas Cook (2007).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Spinoza's 'Ethics'",
+    "author": "Yitzhak Y. Melamed",
+    "year": 2017,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by Yitzhak Y. Melamed (2017).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Ethics (Penguin Classics)",
+    "author": "Benedictus de Spinoza",
+    "year": 2005,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "ethics",
+      "modern ethics",
+      "ethics, history",
+      "ethics, modern, 17th century"
+    ],
+    "short_summary": "A philosophical work by Benedictus de Spinoza (2005).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Spinoza's 'Ethics'",
+    "author": "Campbell",
+    "year": 2002,
+    "tradition": "Rationalism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Campbell (2002).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Philosophische Untersuchungen",
+    "author": "Ludwig Wittgenstein",
+    "year": 1953,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "language and languages",
+      "symbolic and mathematical logic",
+      "ordinary language philosophy",
+      "private language problem",
+      "language and languages, philosophy"
+    ],
+    "short_summary": "A philosophical work by Ludwig Wittgenstein (1953).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Ludwig Wittgenstein",
+    "author": "Ray Monk",
+    "year": 1990,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Ray Monk (1990).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Wittgensteins Neffe",
+    "author": "Thomas Bernhard",
+    "year": 1983,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Thomas Bernhard (1983).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Wittgenstein's mistress",
+    "author": "David Markson",
+    "year": 1988,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by David Markson (1988).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Vermischte Bemerkungen",
+    "author": "Ludwig Wittgenstein",
+    "year": 1977,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Ludwig Wittgenstein (1977).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Über Gewissheit",
+    "author": "Ludwig Wittgenstein",
+    "year": 1969,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Ludwig Wittgenstein (1969).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Bemerkungen über die Grundlagen der Mathematik",
+    "author": "Ludwig Wittgenstein",
+    "year": 1956,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "logic"
+    ],
+    "short_summary": "A philosophical work by Ludwig Wittgenstein (1956).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Autobiography",
+    "author": "Bertrand Russell",
+    "year": 1944,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Bertrand Russell (1944).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "A History of Western Philosophy",
+    "author": "Bertrand Russell",
+    "year": 1945,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Bertrand Russell (1945).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The Problems of Philosophy",
+    "author": "Bertrand Russell",
+    "year": 1900,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "theory of knowledge",
+      "metaphysics",
+      "knowledge, theory of"
+    ],
+    "short_summary": "A philosophical work by Bertrand Russell (1900).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Why I am not a Christian",
+    "author": "Bertrand Russell",
+    "year": 1927,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "godsdienstfilosofie"
+    ],
+    "short_summary": "A philosophical work by Bertrand Russell (1927).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Authority and the Individual",
+    "author": "Bertrand Russell",
+    "year": 1949,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Bertrand Russell (1949).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The ABC of atoms",
+    "author": "Bertrand Russell",
+    "year": 1923,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Bertrand Russell (1923).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Philosophical essays",
+    "author": "Bertrand Russell",
+    "year": 1910,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "logic"
+    ],
+    "short_summary": "A philosophical work by Bertrand Russell (1910).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The conquest of happiness",
+    "author": "Bertrand Russell",
+    "year": 1930,
+    "tradition": "Analytic Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Bertrand Russell (1930).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Histoire de la sexualité",
+    "author": "Michel Foucault",
+    "year": 1976,
+    "tradition": "Post-structuralism",
+    "key_concepts": [
+      "sexual ethics"
+    ],
+    "short_summary": "A philosophical work by Michel Foucault (1976).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Discipline and Punish",
+    "author": "Michel Foucault",
+    "year": 1975,
+    "tradition": "Post-structuralism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Michel Foucault (1975).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "L'histoire de la sexualité, t.1",
+    "author": "Michel Foucault",
+    "year": 1976,
+    "tradition": "Post-structuralism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Michel Foucault (1976).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Michel Foucault",
+    "author": "Didier Eribon",
+    "year": 1989,
+    "tradition": "Post-structuralism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Didier Eribon (1989).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Folie et déraison; histoire de la folie",
+    "author": "Michel Foucault",
+    "year": 1965,
+    "tradition": "Post-structuralism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Michel Foucault (1965).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Naissance de la clinique",
+    "author": "Michel Foucault",
+    "year": 1963,
+    "tradition": "Post-structuralism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Michel Foucault (1963).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Mots et les choses",
+    "author": "Michel Foucault",
+    "year": 1970,
+    "tradition": "Post-structuralism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Michel Foucault (1970).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Histoire de la sexualité, tome 2",
+    "author": "Michel Foucault",
+    "year": 1984,
+    "tradition": "Post-structuralism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Michel Foucault (1984).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Le Deuxième Sexe",
+    "author": "Simone de Beauvoir",
+    "year": 1949,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Simone de Beauvoir (1949).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Mémoires d'une jeune fille rangée",
+    "author": "Simone de Beauvoir",
+    "year": 1900,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Simone de Beauvoir (1900).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Une mort tres douce",
+    "author": "Simone de Beauvoir",
+    "year": 1964,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "french language"
+    ],
+    "short_summary": "A philosophical work by Simone de Beauvoir (1964).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Les Mandarins",
+    "author": "Simone de Beauvoir",
+    "year": 1954,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "french language materials"
+    ],
+    "short_summary": "A philosophical work by Simone de Beauvoir (1954).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The Woman Destroyed",
+    "author": "Simone de Beauvoir",
+    "year": 1967,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "french language materials"
+    ],
+    "short_summary": "A philosophical work by Simone de Beauvoir (1967).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Pour une morale de l'ambiguite ",
+    "author": "Simone de Beauvoir",
+    "year": 1947,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "ethics",
+      "ethics & moral philosophy - theoretical"
+    ],
+    "short_summary": "A philosophical work by Simone de Beauvoir (1947).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Tous les hommes sont mortels",
+    "author": "Simone de Beauvoir",
+    "year": 1946,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Simone de Beauvoir (1946).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Les Belles Images",
+    "author": "Simone de Beauvoir",
+    "year": 1966,
+    "tradition": "Existentialism",
+    "key_concepts": [
+      "russian language books"
+    ],
+    "short_summary": "A philosophical work by Simone de Beauvoir (1966).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Lun yu",
+    "author": "Confucius",
+    "year": 1750,
+    "tradition": "Eastern Philosophy",
+    "key_concepts": [
+      "ethics",
+      "chinese ethics"
+    ],
+    "short_summary": "A philosophical work by Confucius (1750).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Lunyu",
+    "author": "Confucius",
+    "year": 1904,
+    "tradition": "Eastern Philosophy",
+    "key_concepts": [
+      "ethics",
+      "chinese ethics",
+      "confucian ethics"
+    ],
+    "short_summary": "A philosophical work by Confucius (1904).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Confucius Analects",
+    "author": "Confucius",
+    "year": 2003,
+    "tradition": "Eastern Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Confucius (2003).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Lun yü",
+    "author": "Confucius",
+    "year": 1900,
+    "tradition": "Eastern Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Confucius (1900).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Confucian analects",
+    "author": "Confucius",
+    "year": 1895,
+    "tradition": "Eastern Philosophy",
+    "key_concepts": [
+      "ethics"
+    ],
+    "short_summary": "A philosophical work by Confucius (1895).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "The Analects",
+    "author": "Confucius",
+    "year": 1979,
+    "tradition": "Eastern Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Confucius (1979).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
+  },
+  {
+    "title": "Confucius Analects",
+    "author": "Len Losik",
+    "year": 2016,
+    "tradition": "Eastern Philosophy",
+    "key_concepts": [
+      "philosophy"
+    ],
+    "short_summary": "A philosophical work by Len Losik (2016).",
+    "central_argument": "",
+    "related_books": [],
+    "source": "open_library"
   }
 ]
