@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Republic",
+    "author": "Plato",
+    "year": -380,
+    "tradition": "Ancient Greek",
+    "key_concepts": ["justice", "the good", "philosopher-king", "the soul", "ideal state"],
+    "short_summary": "Plato's dialogue exploring the nature of justice, the ideal city-state, and the philosopher's role in governance.",
+    "central_argument": "Justice is harmony — each part of the soul and city doing its proper function. Only philosopher-kings, who know the Form of the Good, are fit to rule.",
+    "related_books": ["Nicomachean Ethics", "Leviathan", "A Theory of Justice"]
+  },
+  {
+    "title": "Nicomachean Ethics",
+    "author": "Aristotle",
+    "year": -340,
+    "tradition": "Ancient Greek",
+    "key_concepts": ["virtue", "eudaimonia", "the golden mean", "practical wisdom", "friendship"],
+    "short_summary": "Aristotle's systematic account of how humans can live well and achieve happiness through virtuous activity.",
+    "central_argument": "Happiness (eudaimonia) is not a feeling but an activity — living and functioning well according to virtue over a complete life.",
+    "related_books": ["Republic", "Meditations", "The Nicomachean Ethics Commentary"]
+  },
+  {
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "year": 180,
+    "tradition": "Stoicism",
+    "key_concepts": ["stoicism", "virtue", "duty", "impermanence", "reason", "self-discipline"],
+    "short_summary": "Personal writings of the Roman emperor Marcus Aurelius — a private journal of Stoic philosophical practice.",
+    "central_argument": "We cannot control external events, only our responses. Virtue and reason are the only true goods. Death and change are natural — accept them.",
+    "related_books": ["Nicomachean Ethics", "Thus Spoke Zarathustra", "The Enchiridion"]
+  },
+  {
+    "title": "Leviathan",
+    "author": "Thomas Hobbes",
+    "year": 1651,
+    "tradition": "Political Philosophy",
+    "key_concepts": ["social contract", "state of nature", "sovereignty", "power", "commonwealth"],
+    "short_summary": "Hobbes argues that without political authority, human life is war of all against all, requiring a sovereign to maintain peace.",
+    "central_argument": "In the state of nature life is 'solitary, poor, nasty, brutish, and short.' Rational agents agree to a social contract surrendering freedoms to a sovereign for security.",
+    "related_books": ["Republic", "Second Treatise of Government", "The Social Contract"]
+  },
+  {
+    "title": "Second Treatise of Government",
+    "author": "John Locke",
+    "year": 1689,
+    "tradition": "Political Philosophy",
+    "key_concepts": ["natural rights", "consent", "property", "revolution", "social contract"],
+    "short_summary": "Locke argues that legitimate government derives from the consent of the governed and must protect natural rights.",
+    "central_argument": "People have natural rights to life, liberty, and property. Government is legitimate only by consent. When it violates rights, revolution is justified.",
+    "related_books": ["Leviathan", "The Social Contract", "A Theory of Justice"]
+  },
+  {
+    "title": "Critique of Pure Reason",
+    "author": "Immanuel Kant",
+    "year": 1781,
+    "tradition": "German Idealism",
+    "key_concepts": ["a priori", "categories of understanding", "phenomena", "noumena", "transcendental idealism"],
+    "short_summary": "Kant's investigation into the conditions and limits of human knowledge, synthesizing rationalism and empiricism.",
+    "central_argument": "The mind actively structures experience. Space, time, and categories like causality are frameworks the mind imposes on reality — not features of things-in-themselves.",
+    "related_books": ["Phenomenology of Spirit", "Tractatus Logico-Philosophicus", "Meditations on First Philosophy"]
+  },
+  {
+    "title": "Phenomenology of Spirit",
+    "author": "G.W.F. Hegel",
+    "year": 1807,
+    "tradition": "German Idealism",
+    "key_concepts": ["dialectic", "spirit", "consciousness", "master-slave", "absolute knowing"],
+    "short_summary": "Hegel traces the development of consciousness from simple sense-perception to absolute knowing through dialectical stages.",
+    "central_argument": "Consciousness develops through contradiction and resolution (thesis-antithesis-synthesis). Spirit (Geist) realizes itself through history and human self-understanding.",
+    "related_books": ["Critique of Pure Reason", "Thus Spoke Zarathustra", "Being and Time"]
+  },
+  {
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "year": 1883,
+    "tradition": "Existentialism",
+    "key_concepts": ["will to power", "eternal recurrence", "Übermensch", "nihilism", "slave morality"],
+    "short_summary": "Through the prophet Zarathustra, Nietzsche proclaims the death of God and calls for a revaluation of all values.",
+    "central_argument": "With God dead, humanity must create its own values. The Übermensch embraces life, affirms eternal recurrence, and overcomes nihilism through creative will.",
+    "related_books": ["Being and Time", "Phenomenology of Spirit", "Meditations"]
+  },
+  {
+    "title": "Being and Time",
+    "author": "Martin Heidegger",
+    "year": 1927,
+    "tradition": "Existentialism",
+    "key_concepts": ["Dasein", "being-in-the-world", "authenticity", "thrownness", "death", "care"],
+    "short_summary": "Heidegger investigates the meaning of Being through analysis of human existence (Dasein) and our relationship with time.",
+    "central_argument": "Humans are 'thrown' into existence without choosing it. Authentic existence means owning one's finitude and living toward death rather than fleeing into 'the they'.",
+    "related_books": ["Thus Spoke Zarathustra", "Phenomenology of Spirit", "Nausea"]
+  },
+  {
+    "title": "A Theory of Justice",
+    "author": "John Rawls",
+    "year": 1971,
+    "tradition": "Political Philosophy",
+    "key_concepts": ["veil of ignorance", "original position", "difference principle", "fairness", "liberty"],
+    "short_summary": "Rawls constructs principles of justice that rational agents would choose if they did not know their place in society.",
+    "central_argument": "Justice is fairness. Behind a veil of ignorance, rational agents choose: equal basic liberties for all, and social inequalities only if they benefit the least advantaged.",
+    "related_books": ["Republic", "Second Treatise of Government", "Leviathan"]
+  }
+]
