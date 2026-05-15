@@ -1,22 +1,21 @@
 # enricher.py
-# Uses Claude API to enrich books with missing summaries and arguments
+# Uses Ollama (local Mistral) to enrich books with missing summaries and arguments
 # Reads data/books.json, enriches thin records, writes back
 
 import json
-import os
 import time
+import requests
 from pathlib import Path
 
-import anthropic
-
-DATA_FILE = Path(__file__).parent.parent / "data" / "books.json"
-CLIENT    = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))
+DATA_FILE   = Path(__file__).parent.parent / "data" / "books.json"
+OLLAMA_URL  = "http://localhost:11434/api/generate"
+OLLAMA_MODEL = "mistral"
 
 
 def needs_enrichment(book):
     """Return True if book is missing key analytical fields."""
     missing_summary  = not book.get("short_summary", "").strip() or \
-                       book.get("short_summary","").startswith("A philosophical work by")
+                       book.get("short_summary", "").startswith("A philosophical work by")
     missing_argument = not book.get("central_argument", "").strip()
     missing_concepts = len(book.get("key_concepts", [])) < 2
     return missing_summary or missing_argument or missing_concepts
@@ -24,9 +23,9 @@ def needs_enrichment(book):
 
 def enrich_book(book):
     """
-    Call Claude API to generate summary, central argument,
+    Call local Ollama (Mistral) to generate summary, central argument,
     and key concepts for one book.
-    Returns updated book dict.
+    Returns updated book dict and success boolean.
     """
     title     = book.get("title", "")
     author    = book.get("author", "")
@@ -56,13 +55,19 @@ Requirements:
 - Respond ONLY with the JSON object, no other text"""
 
     try:
-        message = CLIENT.messages.create(
-            model      = "claude-sonnet-4-20250514",
-            max_tokens = 400,
-            messages   = [{"role": "user", "content": prompt}]
+        response = requests.post(
+            OLLAMA_URL,
+            json={
+                "model":  OLLAMA_MODEL,
+                "prompt": prompt,
+                "stream": False
+            },
+            timeout=120
         )
+        response.raise_for_status()
 
-        raw  = message.content[0].text.strip()
+        raw = response.json()["response"].strip()
+
         # Strip markdown code fences if present
         if raw.startswith("```"):
             raw = raw.split("```")[1]
@@ -136,9 +141,9 @@ def run_enrichment(max_books=10, dry_run=False):
         with open(DATA_FILE, "w", encoding="utf-8") as f:
             json.dump(books, f, indent=2, ensure_ascii=False)
 
-        # Polite delay between API calls
+        # Small delay between calls
         if idx < len(thin_books) - 1:
-            time.sleep(1)
+            time.sleep(0.5)
 
         print()
 

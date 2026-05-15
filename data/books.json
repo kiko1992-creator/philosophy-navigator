@@ -207,11 +207,14 @@
     "year": 1554,
     "tradition": "Ancient Greek",
     "key_concepts": [
+      "ideal state",
+      "philosopher-kings",
       "justice",
-      "political ethics"
+      "noble lie",
+      "forms"
     ],
-    "short_summary": "A philosophical work by Πλάτων (1554).",
-    "central_argument": "",
+    "short_summary": "Plato's 'πολιτεία' (Politeia or Republic) is a dialogue that proposes an ideal state governed by philosophers. It explores topics like justice, the nature of reality, and the role of education in society.",
+    "central_argument": "'Justice in the individual corresponds to the just ordering of the city, and the just ordering of the city corresponds to the just nature in the universe.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -221,11 +224,15 @@
     "year": 1559,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "soul",
-      "theory of knowledge"
+      "agape",
+      "eros",
+      "anamnesis",
+      "psyche",
+      "philosophia",
+      "arete"
     ],
-    "short_summary": "A philosophical work by Πλάτων (1559).",
-    "central_argument": "",
+    "short_summary": "Συμπόσιον (The Symposium) is a philosophical dialogue set in classical Athens where various speakers discuss the concept of love, its nature, causes, and effects on human life.",
+    "central_argument": "Love is not just about physical desire but is a divine spirit striving to imitate the unity of the universe, thereby promoting moral excellence in humans.",
     "related_books": [],
     "source": "open_library"
   },
@@ -235,10 +242,15 @@
     "year": 1675,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "language and languages, study and teaching"
+      "impiety",
+      "divine guidance",
+      "corruption",
+      "moral principles",
+      "apology",
+      "philosophy"
     ],
-    "short_summary": "A philosophical work by Πλάτων (1675).",
-    "central_argument": "",
+    "short_summary": "Apology of Socrates is a dialogue in which Socrates defends himself against charges of impiety and corruption, asserting his devotion to the divine and moral principles.",
+    "central_argument": "Socrates argues that he follows divine guidance in his actions, and therefore cannot be guilty of impiety or corrupting the youth.",
     "related_books": [],
     "source": "open_library"
   },
@@ -248,11 +260,15 @@
     "year": 1952,
     "tradition": "Ancient Greek",
     "key_concepts": [
+      "philosophical dialogue",
       "ethics",
-      "language and languages"
+      "metaphysics",
+      "epistemology",
+      "philosophical education",
+      "knowledge"
     ],
-    "short_summary": "A philosophical work by Πλάτων (1952).",
-    "central_argument": "",
+    "short_summary": "The Dialogues of Plato consist of a series of philosophical conversations between Socrates and various interlocutors, addressing topics such as ethics, metaphysics, and epistemology. The Seventh Letter is a correspondence attributed to Plato that discusses his educational method and the relationship between philosophy and politics.",
+    "central_argument": "Plato argues for the importance of philosophical education in The Dialogues and asserts in The Seventh Letter that true knowledge can only be obtained through philosophical dialogue and contemplation.",
     "related_books": [],
     "source": "open_library"
   },
@@ -262,11 +278,15 @@
     "year": 1871,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "body, mind & spirit",
-      "metaphysics"
+      "justice",
+      "wisdom",
+      "virtue",
+      "ignorance",
+      "immorality",
+      "apology"
     ],
-    "short_summary": "A philosophical work by Πλάτων (1871).",
-    "central_argument": "",
+    "short_summary": "Δημοσθένης's speech in defense of Socrates, presented by Plato, recounts Socrates' final days before his execution. It explores themes of justice, virtue, and the nature of wisdom.",
+    "central_argument": "'Justice is the highest form of wisdom, while ignorance is not merely unwise but also immoral.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -276,10 +296,15 @@
     "year": 1713,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "soul"
+      "love",
+      "soul",
+      "spirit",
+      "procreation",
+      "philosophy",
+      "written word vs oral tradition"
     ],
-    "short_summary": "A philosophical work by Πλάτων (1713).",
-    "central_argument": "",
+    "short_summary": "Φαίδων (Plato's Phaedrus) is a dialogue between Socrates and Phaedrus discussing love, the soul, and written word versus oral tradition.",
+    "central_argument": "'Love is born of the spirit that pervades the universe and is the driving force behind procreation and philosophy.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -289,10 +314,15 @@
     "year": 1893,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "philosophy"
+      "platonism",
+      "ideal forms",
+      "allegory of the cave",
+      "dualism",
+      "eros",
+      "philosophy as a spiritual journey"
     ],
-    "short_summary": "A philosophical work by Walter Pater (1893).",
-    "central_argument": "",
+    "short_summary": "Pater's 'Plato and Platonism' explores the development of Platonic philosophy from its origins in ancient Greece to its influence on later Western thought.",
+    "central_argument": "'Plato is a living force, and a force which has been continually active through all the long history of Western thought.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -302,11 +332,14 @@
     "year": 1520,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "metaphysics",
-      "nature"
+      "demiurge",
+      "ideal forms",
+      "cosmos",
+      "eternal",
+      "perfect realm of ideas"
     ],
-    "short_summary": "A philosophical work by Πλάτων (1520).",
-    "central_argument": "",
+    "short_summary": "Τίμαιος (Timaeus) is a philosophical dialogue by Plato that presents a creation myth of the universe and human soul, discussing themes such as cosmology, the nature of reality, and the concept of the Good.",
+    "central_argument": "The universe and everything in it were created by a demiurge who fashioned them according to ideal forms, seeking to imitate the eternal and perfect realm of ideas.",
     "related_books": [],
     "source": "open_library"
   },
@@ -316,12 +349,14 @@
     "year": 1479,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "metaphysics",
-      "ethics, greece",
-      "athens (greece), politics and government"
+      "imitation",
+      "mimesis",
+      "catharsis",
+      "poetic genres",
+      "aesthetics"
     ],
-    "short_summary": "A philosophical work by Aristotle (1479).",
-    "central_argument": "",
+    "short_summary": "La Poetica is a treatise on poetry and the arts by Aristotle, offering an analysis of poetic structures, literary genres, and their emotional impact on the audience.",
+    "central_argument": "'Poetry derives from a natural impulse of imitation, serving as a means to represent action, character, and emotion in a manner that appeals to our sense of beauty.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -331,11 +366,15 @@
     "year": 1492,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "politics and government",
-      "greek language materials"
+      "constitution",
+      "civic virtue",
+      "social classes",
+      "justice",
+      "law",
+      "political community"
     ],
-    "short_summary": "A philosophical work by Aristotle (1492).",
-    "central_argument": "",
+    "short_summary": "Politiká (Nicomachean Ethics) is a philosophical treatise by Aristotle discussing the nature of government, the ideal state, and the roles of citizens, rulers, and laws in society.",
+    "central_argument": "'The best political community is formed by citizens who are like-minded (homophron) and who participate in decisions and offices only to a certain extent', emphasizing moderation, balance, and shared responsibility.",
     "related_books": [],
     "source": "open_library"
   },
@@ -345,10 +384,15 @@
     "year": 1536,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "greek language"
+      "catharsis",
+      "tragedy",
+      "epic",
+      "comedy",
+      "poetic structure",
+      "mimesis"
     ],
-    "short_summary": "A philosophical work by Aristotle (1536).",
-    "central_argument": "",
+    "short_summary": "Aristotle's 'Poetics' is an ancient treatise on the art of poetry, focusing on tragedy, epic, comedy, and poetic structure.",
+    "central_argument": "'Poetics' argues that the purpose of tragic drama is to arouse pity and fear in the audience for the catharsis (purification) of these emotions.",
     "related_books": [],
     "source": "open_library"
   },
@@ -358,10 +402,15 @@
     "year": 1472,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "philosophy of nature"
+      "four elements",
+      "natural place",
+      "motion",
+      "causality",
+      "empirical observation",
+      "theoretical reasoning"
     ],
-    "short_summary": "A philosophical work by Aristotle (1472).",
-    "central_argument": "",
+    "short_summary": "Aristotle's 'Physics' explores fundamental principles of nature, motion, place, time, and causality within a framework of empirical observation and theoretical reasoning.",
+    "central_argument": "'The heavens and the earth are composed of four elements (earth, water, air, fire) that are in constant motion and have natural places where they rest naturally.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -371,10 +420,15 @@
     "year": 1952,
     "tradition": "Ancient Greek",
     "key_concepts": [
+      "mathematics",
+      "abstraction",
+      "quantities",
+      "magnitudes",
+      "physical world",
       "philosophy"
     ],
-    "short_summary": "A philosophical work by Hippocrates George Apostle (1952).",
-    "central_argument": "",
+    "short_summary": "Aristotle's Philosophy of Mathematics explores the Ancient Greek philosopher Aristotle's views on mathematics, its foundations, and its relationship to philosophy and reality. The book discusses Aristotle's belief in mathematics as a tool for understanding physical phenomena.",
+    "central_argument": "Aristotle viewed mathematics as an abstraction of quantities and magnitudes found in the physical world.",
     "related_books": [],
     "source": "open_library"
   },
@@ -384,10 +438,15 @@
     "year": 1923,
     "tradition": "Ancient Greek",
     "key_concepts": [
-      "philosophy"
+      "synthesis",
+      "empiricism",
+      "metaphysics",
+      "ethics",
+      "politics",
+      "aesthetics"
     ],
-    "short_summary": "A philosophical work by Will Durant (1923).",
-    "central_argument": "",
+    "short_summary": "The Story of Philosophy by Will Durant explores Aristotle's life and works, providing an overview of his significant contributions to various fields including logic, metaphysics, ethics, politics, and aesthetics.",
+    "central_argument": "Aristotle's philosophy is a synthesis of Plato's theories and empirical observations, emphasizing the importance of experience in understanding the natural world and human behavior.",
     "related_books": [],
     "source": "open_library"
   },
@@ -397,11 +456,16 @@
     "year": 1969,
     "tradition": "Ancient Greek",
     "key_concepts": [
+      "active intellect",
+      "dialectic",
+      "consciousness",
+      "mind",
       "philosophy of mind",
-      "mind and body"
+      "Aristotle",
+      "Hegel"
     ],
-    "short_summary": "A philosophical work by Frederick Gustav Weiss (1969).",
-    "central_argument": "",
+    "short_summary": "Frederick Gustav Weiss's Hegel's Critique of Aristotle's Philosophy of Mind examines Georg Wilhelm Friedrich Hegel's critique of Aristotle's views on mind and consciousness.",
+    "central_argument": "Hegel argued that Aristotle's concept of the active intellect is incomplete and static, while Hegel's dialectical method offers a more dynamic understanding of mind and consciousness.",
     "related_books": [],
     "source": "open_library"
   },
@@ -411,10 +475,15 @@
     "year": 1800,
     "tradition": "Stoicism",
     "key_concepts": [
-      "philosophy"
+      "stoicism",
+      "ethics",
+      "self-control",
+      "tranquility",
+      "virtue",
+      "apatheia"
     ],
-    "short_summary": "A philosophical work by Epictetus (1800).",
-    "central_argument": "",
+    "short_summary": "The Discourses is a collection of philosophical teachings by the Stoic philosopher Epictetus, discussing ethics, self-control, and understanding the difference between what we can and cannot control.",
+    "central_argument": "'Understanding the difference between what we can and cannot control is key to achieving tranquility and a virtuous life.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -424,11 +493,15 @@
     "year": 1655,
     "tradition": "Stoicism",
     "key_concepts": [
-      "ancient ethics",
-      "ethics"
+      "prohairesis",
+      "apatheia",
+      "logos",
+      "cosmos",
+      "arete",
+      "lekton"
     ],
-    "short_summary": "A philosophical work by Epictetus (1655).",
-    "central_argument": "",
+    "short_summary": "The Manual or Handbook is a collection of Stoic teachings attributed to Epictetus, offering practical wisdom on living a virtuous life, overcoming adversity, and achieving tranquility through self-discipline and acceptance.",
+    "central_argument": "One should focus on what one can control (attitudes, actions, and beliefs) and accept with equanimity what cannot be controlled to lead a happy and peaceful life.",
     "related_books": [],
     "source": "open_library"
   },
@@ -438,11 +511,15 @@
     "year": 1995,
     "tradition": "Stoicism",
     "key_concepts": [
-      "ancient ethics",
-      "ethics"
+      "stoicism",
+      "control",
+      "will",
+      "virtue",
+      "serenity",
+      "acceptance"
     ],
-    "short_summary": "A philosophical work by Epictetus (1995).",
-    "central_argument": "",
+    "short_summary": "Epictetus' 'Art of Living' offers a practical guide to achieving happiness and tranquility by embracing Stoic philosophy, teaching individuals how to distinguish what they can control from what they cannot.",
+    "central_argument": "'We have control only over our own actions and judgments, not external events.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -452,10 +529,15 @@
     "year": 1916,
     "tradition": "Stoicism",
     "key_concepts": [
-      "philosophy"
+      "stoicism",
+      "prohairesis",
+      "apatheia",
+      "logos",
+      "cosmos",
+      "adversity"
     ],
-    "short_summary": "A philosophical work by Epictetus (1916).",
-    "central_argument": "",
+    "short_summary": "Epictetus is a collection of discourses, essays, and letters by the ancient Greek philosopher, presenting his teachings on Stoicism, a philosophy that emphasizes self-control, resilience, and inner calm.",
+    "central_argument": "Life's events are beyond our control, but our attitudes towards them aren't; therefore, we should focus on what we can control (our desires, perceptions, and actions) to live a virtuous life.",
     "related_books": [],
     "source": "open_library"
   },
@@ -465,11 +547,14 @@
     "year": 1766,
     "tradition": "Stoicism",
     "key_concepts": [
-      "ethics",
-      "ethics, ancient"
+      "stoicism",
+      "self-mastery",
+      "virtue",
+      "prosoche (focused attention)",
+      "apatheia (emotional equanimity)"
     ],
-    "short_summary": "A philosophical work by Epictetus (1766).",
-    "central_argument": "",
+    "short_summary": "Discourses is a collection of lectures by the Stoic philosopher Epictetus, covering topics such as ethical living, self-mastery, and the role of reason in life.",
+    "central_argument": "'A person's fate is determined by their own actions and perceptions, not external events.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -479,10 +564,15 @@
     "year": 1899,
     "tradition": "Stoicism",
     "key_concepts": [
-      "ethics"
+      "stoicism",
+      "self-control",
+      "duty",
+      "will",
+      "moral worth",
+      "control vs. fate"
     ],
-    "short_summary": "A philosophical work by Epictetus (1899).",
-    "central_argument": "",
+    "short_summary": "The Moral Discourses of Epictetus is a collection of philosophical teachings by the Stoic philosopher, focusing on self-control, duty, and the separation between things within our control and those outside it.",
+    "central_argument": "'A person's will determines their moral worth, not events beyond their control.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -492,10 +582,15 @@
     "year": 1955,
     "tradition": "Stoicism",
     "key_concepts": [
-      "ethics, ancient"
+      "stoicism",
+      "fate",
+      "self-control",
+      "inner peace",
+      "adversity",
+      "tranquility"
     ],
-    "short_summary": "A philosophical work by Epictetus (1955).",
-    "central_argument": "",
+    "short_summary": "The Enchiridion is a guidebook on Stoic philosophy by Epictetus, emphasizing self-control, acceptance of fate, and inner peace through personal discipline.",
+    "central_argument": "Life's events are beyond our control; what we can control is our reaction to these events and our ability to find tranquility in the face of adversity.",
     "related_books": [],
     "source": "open_library"
   },
@@ -505,10 +600,15 @@
     "year": 2004,
     "tradition": "Stoicism",
     "key_concepts": [
-      "philosophy"
+      "stoicism",
+      "self-control",
+      "freedom",
+      "virtue",
+      "happiness",
+      "wisdom"
     ],
-    "short_summary": "A philosophical work by Jeff Traylor (2004).",
-    "central_argument": "",
+    "short_summary": "The Epictetus Club delves into Stoic philosophy by exploring various life lessons and moral teachings attributed to the ancient philosopher Epictetus, as interpreted by modern author Jeff Traylor.",
+    "central_argument": "'The primary focus of the book is on understanding and applying Epictetus' teachings to cultivate a life of virtue, happiness, and freedom through self-control, self-discipline, and wisdom.',",
     "related_books": [],
     "source": "open_library"
   },
