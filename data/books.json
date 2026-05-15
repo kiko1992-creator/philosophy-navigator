@@ -618,10 +618,15 @@
     "year": 2018,
     "tradition": "Stoicism",
     "key_concepts": [
-      "philosophy"
+      "stoicism",
+      "virtue",
+      "wisdom",
+      "reason",
+      "cosmos",
+      "acceptance"
     ],
-    "short_summary": "A philosophical work by Marcus Aurelius (2018).",
-    "central_argument": "",
+    "short_summary": "Meditations is a series of personal writings by Roman Emperor Marcus Aurelius, reflecting on Stoic philosophy to find peace, virtue, and tranquility amidst the challenges of ruling an empire.",
+    "central_argument": "Life's events are uncontrollable but our responses can be shaped by virtuous reasoning, leading to inner peace and happiness.",
     "related_books": [],
     "source": "open_library"
   },
@@ -631,10 +636,15 @@
     "year": 2012,
     "tradition": "Stoicism",
     "key_concepts": [
-      "philosophy"
+      "stoicism",
+      "cosmos",
+      "virtue",
+      "providence",
+      "logos",
+      "impermanence"
     ],
-    "short_summary": "A philosophical work by Marcus Aurelius (2012).",
-    "central_argument": "",
+    "short_summary": "Meditations is a collection of personal writings by Roman Emperor Marcus Aurelius, containing his thoughts on Stoicism, morality, self-discipline, and the universe's order.",
+    "central_argument": "Accept what you cannot control, focus on virtuous actions, and cultivate inner tranquility to live a happy and meaningful life despite external circumstances.",
     "related_books": [],
     "source": "open_library"
   },
@@ -644,10 +654,15 @@
     "year": 2016,
     "tradition": "Stoicism",
     "key_concepts": [
-      "philosophy"
+      "stoicism",
+      "virtue",
+      "acceptance",
+      "cosmic order",
+      "inner calm",
+      "self-discipline"
     ],
-    "short_summary": "A philosophical work by Marcus Aurelius (2016).",
-    "central_argument": "",
+    "short_summary": "Meditations is a series of personal writings by Roman Emperor Marcus Aurelius, reflecting on Stoic philosophy to cultivate inner peace and wisdom amidst political and personal turmoil.",
+    "central_argument": "Life's events are beyond our control, but we can maintain tranquility and moral integrity by focusing on virtuous actions and accepting the natural order of things.",
     "related_books": [],
     "source": "open_library"
   },
@@ -657,10 +672,15 @@
     "year": 2019,
     "tradition": "Stoicism",
     "key_concepts": [
-      "philosophy"
+      "stoicism",
+      "virtue",
+      "moral-philosophy",
+      "resilience",
+      "self-discipline",
+      "wise-decision-making"
     ],
-    "short_summary": "A philosophical work by Donald Robertson (2019).",
-    "central_argument": "",
+    "short_summary": "How to Think Like a Roman Emperor is a guide that explores Stoic philosophy as practiced by emperors like Marcus Aurelius, providing practical advice on navigating life's challenges using ancient wisdom.",
+    "central_argument": "The book argues that adopting the Stoic philosophy can help individuals cultivate emotional resilience and moral integrity to lead a more fulfilled life.",
     "related_books": [],
     "source": "open_library"
   },
@@ -670,10 +690,15 @@
     "year": 2002,
     "tradition": "Stoicism",
     "key_concepts": [
-      "ethics"
+      "stoicism",
+      "virtue",
+      "providence",
+      "logos",
+      "cosmos",
+      "acceptance"
     ],
-    "short_summary": "A philosophical work by Marcus Aurelius (2002).",
-    "central_argument": "",
+    "short_summary": "Meditations is a series of personal writings by Roman Emperor Marcus Aurelius, reflecting on Stoic philosophy as a means to attain tranquility and find wisdom amidst life's adversities.",
+    "central_argument": "One should focus on the things within one's control, accept what cannot be controlled with equanimity, and understand that the universe functions according to natural laws.",
     "related_books": [],
     "source": "open_library"
   },
@@ -683,10 +708,15 @@
     "year": 1966,
     "tradition": "Stoicism",
     "key_concepts": [
-      "philosophy"
+      "stoicism",
+      "duty",
+      "self-control",
+      "wisdom",
+      "adversity",
+      "emperor"
     ],
-    "short_summary": "A philosophical work by Anthony Richard Birley (1966).",
-    "central_argument": "",
+    "short_summary": "Birley's 'Marcus Aurelius: A Life' is a biography exploring the life and philosophy of Roman Emperor Marcus Aurelius, delving into his adherence to Stoicism.",
+    "central_argument": "'Marcus Aurelius' argues that the emperor's life embodied Stoic principles, demonstrating self-control, wisdom, and a commitment to duty even in the face of adversity.",
     "related_books": [],
     "source": "open_library"
   },
@@ -696,14 +726,15 @@
     "year": 1781,
     "tradition": "German Idealism",
     "key_concepts": [
-      "reason",
-      "theory of knowledge",
-      "sociology of knowledge",
-      "knowledge",
-      "knowledge, theory of"
+      "pure reason",
+      "transcendental aesthetics",
+      "transcendental logic",
+      "synthetic a priori",
+      "noumenon",
+      "phenomenon"
     ],
-    "short_summary": "A philosophical work by Immanuel Kant (1781).",
-    "central_argument": "",
+    "short_summary": "Kritik der reinen Vernunft, or Critique of Pure Reason, is Immanuel Kant's magnum opus that presents his argument for a synthesis between rationalism and empiricism in metaphysics.",
+    "central_argument": "Our intuition (space and time) provides the conditions under which pure reason can cognize objects independently of experience.",
     "related_books": [],
     "source": "open_library"
   },
@@ -713,14 +744,15 @@
     "year": 1788,
     "tradition": "German Idealism",
     "key_concepts": [
-      "ethics",
-      "reason",
       "practical reason",
-      "theory of knowledge",
-      "modern ethics"
+      "moral duty",
+      "categorical imperative",
+      "autonomy",
+      "heteronomy",
+      "freedom"
     ],
-    "short_summary": "A philosophical work by Immanuel Kant (1788).",
-    "central_argument": "",
+    "short_summary": "Kritik der praktischen Vernunft, or Critique of Practical Reason, explores the nature of moral duty and the role of reason in justifying moral principles, building upon Kant's groundbreaking work Critique of Pure Reason.",
+    "central_argument": "'Reason alone (without reliance on empirical evidence) can justify moral duties, providing an account of moral autonomy.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -730,12 +762,14 @@
     "year": 1793,
     "tradition": "German Idealism",
     "key_concepts": [
-      "judgment (logic)",
-      "judgement (logic)",
-      "epistemology"
+      "judgment",
+      "aesthetic judgment",
+      "teleological judgment",
+      "disinterested pleasure",
+      "purposiveness"
     ],
-    "short_summary": "A philosophical work by Immanuel Kant (1793).",
-    "central_argument": "",
+    "short_summary": "Kritik der Urteilskraft (Critique of Judgment) is a philosophical work where Immanuel Kant examines human judgment in its three facets: aesthetic, teleological, and logical.",
+    "central_argument": "'Judgments of taste' are based on the subject's universal feeling of pleasure or displeasure, and the 'purposiveness' of nature can be understood by humans without knowing their specific purpose.",
     "related_books": [],
     "source": "open_library"
   },
@@ -745,10 +779,15 @@
     "year": 1918,
     "tradition": "German Idealism",
     "key_concepts": [
-      "reasoning"
+      "critique of pure reason",
+      "transcendental aesthetic",
+      "transcendental logic",
+      "phenomena",
+      "noumena",
+      "synthetic a priori"
     ],
-    "short_summary": "A philosophical work by Norman Kemp Smith (1918).",
-    "central_argument": "",
+    "short_summary": "Norman Kemp Smith's 'A Commentary on Kant's Critique of Pure Reason' is an interpretation and analysis of Immanuel Kant's foundational work in epistemology and metaphysics.",
+    "central_argument": "'Critique of Pure Reason' argues for the separation of knowledge into three domains: that which can be known through experience (phenomena), that which can be known a priori through reason (noumena), and that which remains unknowable (noumenon).",
     "related_books": [],
     "source": "open_library"
   },
@@ -758,10 +797,15 @@
     "year": 1960,
     "tradition": "German Idealism",
     "key_concepts": [
-      "philosophy"
+      "critique of practical reason",
+      "moral law",
+      "categorical imperative",
+      "autonomy",
+      "heteronomy",
+      "duty"
     ],
-    "short_summary": "A philosophical work by Lewis White Beck (1960).",
-    "central_argument": "",
+    "short_summary": "Beck's 'A commentary on Kant's Critique of practical reason' provides a comprehensive analysis and interpretation of Immanuel Kant's second critical work, exploring Kantian ethics, duty, and the rational basis for moral judgment.",
+    "central_argument": "'Reason is the source of all moral principles.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -771,10 +815,15 @@
     "year": 1938,
     "tradition": "German Idealism",
     "key_concepts": [
-      "philosophy"
+      "critique",
+      "aesthetics",
+      "teleology",
+      "pure reason",
+      "empirical reason",
+      "reason of ends"
     ],
-    "short_summary": "A philosophical work by H. W. Cassirer (1938).",
-    "central_argument": "",
+    "short_summary": "Cassirer's 'A Commentary on Kant's Critique of Judgment' offers an in-depth exploration of Immanuel Kant's third Critique, examining Kant's theories on aesthetics, teleology, and the role of judgment in understanding human experience.",
+    "central_argument": "'The Critique of Judgment' presents a synthesis of pure reason (understanding), empirical reason (judgment), and practical reason (reason of ends).', as argued by Kant",
     "related_books": [],
     "source": "open_library"
   },
@@ -784,12 +833,15 @@
     "year": 1938,
     "tradition": "German Idealism",
     "key_concepts": [
-      "knowledge, theory of",
-      "reason",
-      "theory of knowledge"
+      "synthetic a priori judgments",
+      "pure reason",
+      "transcendental logic",
+      "noumenon",
+      "phenomenon",
+      "critique of pure reason"
     ],
-    "short_summary": "A philosophical work by Ewing, A. C. (1938).",
-    "central_argument": "",
+    "short_summary": "Ewing's 'A short commentary on Kant's Critique of Pure Reason' is an exposition and critique of Immanuel Kant's seminal work on epistemology, metaphysics, and ethics.",
+    "central_argument": "Kant's central argument proposes that synthetic a priori judgments are possible, bridging the gap between empirical knowledge (a posteriori) and rational knowledge (a priori).",
     "related_books": [],
     "source": "open_library"
   },
@@ -799,11 +851,14 @@
     "year": 1958,
     "tradition": "German Idealism",
     "key_concepts": [
-      "theory of knowledge",
-      "reason"
+      "pure reason",
+      "a priori",
+      "synthesis",
+      "transcendental aesthetic",
+      "categories of understanding"
     ],
-    "short_summary": "A philosophical work by Thomas Dewar Weldon (1958).",
-    "central_argument": "",
+    "short_summary": "Weldon's 'Kant's Critique of Pure Reason' is a comprehensive analysis of Immanuel Kant's seminal work, exploring his theories on pure reason, space, time, and the nature of knowledge.",
+    "central_argument": "'Pure reason' is the faculty that synthesizes concepts a priori to form our understanding of the world. This is distinct from empirical reasoning which relies on sensory experience.",
     "related_books": [],
     "source": "open_library"
   },
@@ -813,10 +868,15 @@
     "year": 1995,
     "tradition": "German Idealism",
     "key_concepts": [
-      "philosophy"
+      "dialectic",
+      "absolute idealism",
+      "geist (spirit)",
+      "phenomenology",
+      "reason",
+      "ethical life (sittlichkeit)"
     ],
-    "short_summary": "A philosophical work by H. S. Harris (1995).",
-    "central_argument": "",
+    "short_summary": "Hegel by H.S. Harris offers a comprehensive account of G.W.F. Hegel's life, work, and influence on German Idealism, exploring his dialectical method, absolute idealism, and philosophy of history.",
+    "central_argument": "Hegel's philosophy revolves around the concept that human history is a process of developing rationality through conflict and resolution (dialectic), culminating in the Absolute Spirit.",
     "related_books": [],
     "source": "open_library"
   },
@@ -826,13 +886,15 @@
     "year": 1976,
     "tradition": "German Idealism",
     "key_concepts": [
-      "consciousness",
-      "knowledge, theory of",
-      "theory of knowledge",
-      "truth"
+      "self-consciousness",
+      "dialectic",
+      "geist",
+      "absolute knowledge",
+      "opposing forces",
+      "spirit"
     ],
-    "short_summary": "A philosophical work by Norman, Richard (1976).",
-    "central_argument": "",
+    "short_summary": "Norman's 'Hegel's Phenomenology' offers a comprehensive analysis of Hegel's seminal work, examining its structure, argumentation, and key concepts. It serves as an essential guide for understanding Hegel's Phenomenology of Spirit.",
+    "central_argument": "'Hegel's Phenomenology' argues that self-consciousness is attained through a dialectical process in which opposing forces are reconciled, ultimately leading to absolute knowledge (Geist).",
     "related_books": [],
     "source": "open_library"
   },
@@ -842,13 +904,16 @@
     "year": 1994,
     "tradition": "German Idealism",
     "key_concepts": [
-      "theory of knowledge",
-      "consciousness",
-      "truth",
-      "knowledge, theory of"
+      "phenomenology",
+      "dialectic",
+      "geist (spirit)",
+      "thesis",
+      "antithesis",
+      "synthesis",
+      "absolute knowledge"
     ],
-    "short_summary": "A philosophical work by Georg Wilhelm Friedrich Hegel (1994).",
-    "central_argument": "",
+    "short_summary": "Hegel's Phenomenology of Spirit is a complex philosophical work that traces the development of human consciousness and self-awareness through historical and cultural stages, presenting a dialectic reconciliation of contradictions.",
+    "central_argument": "The process of human self-consciousness unfolds as a dialectic between 'thesis', 'antithesis', and synthesis, culminating in Absolute Knowledge.",
     "related_books": [],
     "source": "open_library"
   },
@@ -858,13 +923,15 @@
     "year": 1979,
     "tradition": "German Idealism",
     "key_concepts": [
-      "consciousness",
-      "knowledge, theory of",
-      "theory of knowledge",
-      "truth"
+      "spirit",
+      "self-consciousness",
+      "reason",
+      "alienation",
+      "phenomenology",
+      "dialectic"
     ],
-    "short_summary": "A philosophical work by Merold Westphal (1979).",
-    "central_argument": "",
+    "short_summary": "Merold Westphal's 'History and Truth in Hegel's Phenomenology' explores the relationship between history, self-consciousness, and reason within G.W.F. Hegel's Phenomenology of Spirit.",
+    "central_argument": "'The Spirit becomes conscious through its self-alienation and recovery.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -874,10 +941,15 @@
     "year": 2008,
     "tradition": "German Idealism",
     "key_concepts": [
-      "philosophy"
+      "consciousness",
+      "dialectic",
+      "spirit (geist)",
+      "experience",
+      "self-realization",
+      "rationality"
     ],
-    "short_summary": "A philosophical work by Larry Krasnoff (2008).",
-    "central_argument": "",
+    "short_summary": "Krasnoff's 'Hegel's Phenomenology of Spirit' provides an accessible interpretation of Hegel's seminal work, exploring the dialectical process by which consciousness evolves and self-realizes through conflicting experiences.",
+    "central_argument": "'Spirit' (Geist) unfolds dialectically, transcending immediate, contradictory experience to achieve a higher, more rational form of understanding.",
     "related_books": [],
     "source": "open_library"
   },
@@ -887,11 +959,15 @@
     "year": 2008,
     "tradition": "German Idealism",
     "key_concepts": [
-      "consciousness",
-      "truth"
+      "phenomenology",
+      "self-consciousness",
+      "absoluteness",
+      "dialectic",
+      "geist",
+      "lordship-bondage"
     ],
-    "short_summary": "A philosophical work by Dean Moyar (2008).",
-    "central_argument": "",
+    "short_summary": "Moyar's 'Hegel's Phenomenology of Spirit' provides a comprehensive analysis of G.W.F. Hegel's seminal work, exploring the dialectical development of self-consciousness and the unfolding of Absolute Spirit.",
+    "central_argument": "'The Phenomenology of Spirit' argues that the historical evolution of human consciousness culminates in the realization of absolute knowledge through a series of conflicting ideas and syntheses.",
     "related_books": [],
     "source": "open_library"
   },
@@ -901,11 +977,15 @@
     "year": 2009,
     "tradition": "German Idealism",
     "key_concepts": [
+      "phenomenology",
+      "spirit",
+      "dialectic",
       "consciousness",
-      "truth"
+      "self-consciousness",
+      "absolute spirit"
     ],
-    "short_summary": "A philosophical work by Kenneth R. Westphal (2009).",
-    "central_argument": "",
+    "short_summary": "The Blackwell guide offers a comprehensive analysis of Hegel's Phenomenology of Spirit, explaining its structure, arguments, and historical context.",
+    "central_argument": "'Phenomenology of Spirit' argues that consciousness and self-consciousness develop through a series of dialectical encounters, leading to the realization of absolute spirit.",
     "related_books": [],
     "source": "open_library"
   },

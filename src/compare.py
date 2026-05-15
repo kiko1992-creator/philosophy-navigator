@@ -217,3 +217,23 @@ def print_comparison(result: dict[str, Any]) -> None:
         print(f"{author2} came first by {years_apart} years (earliest: {y2} vs {y1}).")
     else:
         print(f"Both thinkers begin in the same recorded year ({y1}).")
+if __name__ == "__main__":
+    import sys
+    import json
+    from pathlib import Path
+
+    DATA_FILE = Path(__file__).parent.parent / "data" / "books.json"
+
+    if len(sys.argv) < 3:
+        print("Usage: py src/compare.py <Author1> <Author2>")
+        print('Example: py src/compare.py Plato Aristotle')
+        sys.exit(1)
+
+    author1 = sys.argv[1]
+    author2 = sys.argv[2]
+
+    with open(DATA_FILE, encoding="utf-8") as f:
+        books = json.load(f)
+
+    result = compare_thinkers(author1, author2, books)
+    print_comparison(result)
