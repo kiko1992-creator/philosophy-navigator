@@ -9,7 +9,8 @@ from pathlib import Path
 # Ensure src/ siblings are importable
 sys.path.insert(0, str(Path(__file__).parent))
 
-from compare import compare_thinkers, print_comparison
+from compare  import compare_thinkers, print_comparison
+from timeline import build_timeline, print_timeline, timeline_summary
 
 DATA_FILE = Path(__file__).parent.parent / "data" / "books.json"
 
@@ -31,7 +32,7 @@ def list_books(books):
     print(f"  {'#':<4} {'Title':<35} {'Author':<22} {'Year'}")
     print(f"  {'-'*56}")
     for i, book in enumerate(books, 1):
-        year = str(book["year"]) if book.get("year", 0) > 0 \
+        year = str(book.get("year", "?")) if book.get("year", 0) > 0 \
                else f"{abs(book.get('year', 0))} BC"
         print(
             f"  {i:<4} {str(book.get('title',''))[:34]:<35} "
@@ -138,6 +139,10 @@ def main():
             "  py src/main.py search-tradition Stoicism\n"
             "  py src/main.py show Republic\n"
             "  py src/main.py compare Plato Aristotle\n"
+            "  py src/main.py similar Republic\n"
+            "  py src/main.py timeline\n"
+            "  py src/main.py timeline --tradition Stoicism\n"
+            "  py src/main.py timeline --start -400 --end 200\n"
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
@@ -167,6 +172,17 @@ def main():
     p = sub.add_parser("compare", help="Compare two philosophers")
     p.add_argument("author1", help="First philosopher")
     p.add_argument("author2", help="Second philosopher")
+
+    # similar
+    p = sub.add_parser("similar", help="Find similar books using TF-IDF")
+    p.add_argument("title", help="Book title to find similarities for")
+    p.add_argument("--top", type=int, default=5, help="Number of results")
+
+    # timeline
+    p = sub.add_parser("timeline", help="Browse philosophy chronologically")
+    p.add_argument("--start",     type=int, default=None, help="Start year")
+    p.add_argument("--end",       type=int, default=None, help="End year")
+    p.add_argument("--tradition", default=None,           help="Filter by tradition")
 
     args = parser.parse_args()
 
@@ -202,6 +218,19 @@ def main():
         result = compare_thinkers(args.author1, args.author2, books)
         print_comparison(result)
 
+    elif args.command == "similar":
+        from similarity import build_tfidf_matrix, find_similar, print_similar
+        print("Building TF-IDF matrix...")
+        vectorizer, matrix = build_tfidf_matrix(books)
+        target, similar    = find_similar(args.title, books, matrix, args.top)
+        print_similar(target, similar)
+
+    elif args.command == "timeline":
+        timeline_summary(books)
+        tl = build_timeline(books, args.start, args.end)
+        print_timeline(tl, args.tradition)
+
 
 if __name__ == "__main__":
     main()
+    
