@@ -1,3 +1,6 @@
+from pathlib import Path
+
+code = """\
 # main.py — Philosophy Navigator
 
 import json, argparse, sys, csv
@@ -63,7 +66,7 @@ def profile(b):
 
 
 def print_list(books):
-    print(f"\n{'='*60}")
+    print(f"\\n{'='*60}")
     print(f"  Philosophy Navigator - {len(books)} Books")
     print(f"{'='*60}")
     for i, b in enumerate(books, 1):
@@ -73,13 +76,13 @@ def print_list(books):
 
 def print_results(matches, qtype, query):
     if not matches:
-        print(f"\n  No books found for {qtype}: {query!r}\n")
+        print(f"\\n  No books found for {qtype}: {query!r}\\n")
         return
-    print(f"\n{'='*60}")
+    print(f"\\n{'='*60}")
     print(f"  {qtype}: {query!r} - {len(matches)} found")
     print(f"{'='*60}")
     for b in matches:
-        print(f"\n  {b.get('title','')} ({year_str(b.get('year'))})")
+        print(f"\\n  {b.get('title','')} ({year_str(b.get('year'))})")
         print(f"  Author    : {b.get('author','')}")
         print(f"  Tradition : {b.get('tradition','')}")
         concepts = ', '.join(b.get('key_concepts',[])[:3])
@@ -87,20 +90,20 @@ def print_results(matches, qtype, query):
     print()
 
 def print_profile(b):
-    print(f"\n{'='*60}")
+    print(f"\\n{'='*60}")
     print(f"  {b.get('title','')}")
     print(f"{'='*60}")
     print(f"  Author    : {b.get('author','')}")
     print(f"  Year      : {year_str(b.get('year'))}")
     print(f"  Tradition : {b.get('tradition','')}")
     if b.get("short_summary"):
-        print(f"\n  SUMMARY\n  {b['short_summary']}")
+        print(f"\\n  SUMMARY\\n  {b['short_summary']}")
     if b.get("central_argument"):
-        print(f"\n  CENTRAL ARGUMENT\n  {b['central_argument']}")
+        print(f"\\n  CENTRAL ARGUMENT\\n  {b['central_argument']}")
     if b.get("key_concepts"):
-        print(f"\n  KEY CONCEPTS\n  {', '.join(b['key_concepts'])}")
+        print(f"\\n  KEY CONCEPTS\\n  {', '.join(b['key_concepts'])}")
     if b.get("related_books"):
-        print("\n  RELATED BOOKS")
+        print("\\n  RELATED BOOKS")
         for r in b["related_books"]: print(f"    - {r}")
     print()
 
@@ -196,7 +199,7 @@ def main():
             else: print(json.dumps({"error": "Book not found", "query": args.title}, indent=2))
         else:
             if b: print_profile(b)
-            else: print(f"\n  Not found: {args.title!r}\n")
+            else: print(f"\\n  Not found: {args.title!r}\\n")
 
     elif args.command == "compare":
         result = compare_thinkers(args.author1, args.author2, books)
@@ -260,3 +263,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+"""
+
+Path("src/main.py").write_text(code, encoding="utf-8")
+print("Written:", Path("src/main.py").stat().st_size, "bytes")
