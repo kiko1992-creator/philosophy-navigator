@@ -2482,10 +2482,15 @@
     "year": 1976,
     "tradition": "Post-structuralism",
     "key_concepts": [
-      "philosophy"
+      "power",
+      "sexuality",
+      "discourse",
+      "knowledge",
+      "pleasure",
+      "repressive hypothesis"
     ],
-    "short_summary": "A philosophical work by Michel Foucault (1976).",
-    "central_argument": "",
+    "short_summary": "In L'histoire de la sexualité, t.1, Michel Foucault explores the historical evolution of Western attitudes towards sex, focusing on the role of power in shaping these perceptions.",
+    "central_argument": "'Sexuality' is a socially constructed concept that has been manipulated by power structures throughout history to control individuals and maintain social order.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2495,10 +2500,15 @@
     "year": 1989,
     "tradition": "Post-structuralism",
     "key_concepts": [
-      "philosophy"
+      "power-knowledge",
+      "discourse",
+      "panopticism",
+      "biopolitics",
+      "sexuality",
+      "genealogy"
     ],
-    "short_summary": "A philosophical work by Didier Eribon (1989).",
-    "central_argument": "",
+    "short_summary": "Didier Eribon's 'Michel Foucault' is a biographical analysis of French philosopher Michel Foucault's life and works, exploring his personal background and its influence on his development of post-structuralist theories.",
+    "central_argument": "'Michel Foucault' argues that Foucault's intellectual trajectory was significantly shaped by his experiences growing up in a working-class family and dealing with sexuality repression, which influenced his philosophical stance on power dynamics and knowledge production.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2508,10 +2518,15 @@
     "year": 1965,
     "tradition": "Post-structuralism",
     "key_concepts": [
-      "philosophy"
+      "folie raisonnante",
+      "folie passionnelle",
+      "reason of state",
+      "madness",
+      "power-knowledge",
+      "social constructionism"
     ],
-    "short_summary": "A philosophical work by Michel Foucault (1965).",
-    "central_argument": "",
+    "short_summary": "Folie et déraison is a historical investigation by Michel Foucault into the evolution of societal attitudes towards madness from the Middle Ages to the 20th century.",
+    "central_argument": "The book argues that the concept of 'madness' has shifted over time, reflecting changes in Western culture and society.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2521,10 +2536,14 @@
     "year": 1963,
     "tradition": "Post-structuralism",
     "key_concepts": [
-      "philosophy"
+      "power-knowledge",
+      "discourse analysis",
+      "medical humanism",
+      "anatomo-politics",
+      "biopolitics"
     ],
-    "short_summary": "A philosophical work by Michel Foucault (1963).",
-    "central_argument": "",
+    "short_summary": "Naissance de la clinique explores the evolution of medical knowledge and practice in Western society, focusing on the rise of clinical medicine during the 19th century.",
+    "central_argument": "The book argues that modern clinical medicine emerged as a discourse that shaped and was shaped by power relations, leading to a standardization of medical knowledge and practices.",
     "related_books": [],
     "source": "open_library"
   },
