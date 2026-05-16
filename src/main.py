@@ -191,6 +191,9 @@ def main():
     p = sub.add_parser("traditions")
     p.add_argument("--detail", default=None)
 
+    # stats
+    sub.add_parser("stats")
+
     args = ap.parse_args()
     if not args.command:
         ap.print_help()
@@ -306,6 +309,39 @@ def main():
                 }, indent=2, ensure_ascii=False))
             else:
                 print_tradition_map(trads, connections)
+
+    elif args.command == "stats":
+        total    = len(books)
+        curated  = sum(1 for b in books if b.get("source") == "curated")
+        api      = sum(1 for b in books if b.get("source") == "open_library")
+        other    = total - curated - api
+        enriched = sum(1 for b in books if b.get("short_summary","").strip()
+                       and not b["short_summary"].startswith("A philosophical work by"))
+        missing_summary  = sum(1 for b in books if not b.get("short_summary","").strip())
+        missing_argument = sum(1 for b in books if not b.get("central_argument","").strip())
+        missing_concepts = sum(1 for b in books if len(b.get("key_concepts",[])) < 2)
+
+        if J:
+            print(json.dumps({
+                "total": total, "curated": curated, "open_library": api,
+                "other": other, "enriched": enriched,
+                "missing_summary": missing_summary,
+                "missing_argument": missing_argument,
+                "missing_concepts": missing_concepts,
+            }, indent=2))
+        else:
+            print(f"\n{'='*60}")
+            print(f"  Philosophy Navigator — Data Stats")
+            print(f"{'='*60}")
+            print(f"  Total books      : {total}")
+            print(f"  Curated          : {curated}")
+            print(f"  Open Library     : {api}")
+            print(f"  Other/unknown    : {other}")
+            print(f"  Enriched         : {enriched}")
+            print(f"  Missing summary  : {missing_summary}")
+            print(f"  Missing argument : {missing_argument}")
+            print(f"  Missing concepts : {missing_concepts}")
+            print()
 
 
 if __name__ == "__main__":

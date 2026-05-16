@@ -2219,10 +2219,14 @@
     "year": 1983,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "philosophy"
+      "analytic philosophy",
+      "linguistic analysis",
+      "philosophy of logic",
+      "family dynamics",
+      "influence of ideas"
     ],
-    "short_summary": "A philosophical work by Thomas Bernhard (1983).",
-    "central_argument": "",
+    "short_summary": "Wittgensteins Neffe explores the life and influence of Ludwig Wittgenstein on his family and society through a fictional account of his nephew's experiences.",
+    "central_argument": "The book suggests that Wittgenstein's philosophical ideas, particularly his Tractatus Logico-Philosophicus, had profound yet complicated effects on his personal relationships and the world at large.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2232,10 +2236,15 @@
     "year": 1988,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "philosophy"
+      "language",
+      "meaning",
+      "reality",
+      "philosophy",
+      "art",
+      "consciousness"
     ],
-    "short_summary": "A philosophical work by David Markson (1988).",
-    "central_argument": "",
+    "short_summary": "Wittgenstein's Mistress is a novel that imagines conversations between Ludwig Wittgenstein, a famous Austrian-British philosopher, and an unnamed narrator, exploring themes of philosophy, life, and art.",
+    "central_argument": "The central argument revolves around the exploration of language, meaning, and reality as portrayed through philosophical dialogues between Wittgenstein and the narrator.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2245,10 +2254,14 @@
     "year": 1977,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "philosophy"
+      "language-game",
+      "meaning",
+      "private experience",
+      "rule-following",
+      "form of life"
     ],
-    "short_summary": "A philosophical work by Ludwig Wittgenstein (1977).",
-    "central_argument": "",
+    "short_summary": "Vermischte Bemerkungen (Philosophical Remarks) is a collection of Wittgenstein's notes on language, meaning, and philosophy, originally written between 1930 and 1936.",
+    "central_argument": "The central argument revolves around the idea that language use defines our thoughts, and that misunderstandings often arise from misinterpretations of language rather than the world.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2258,10 +2271,15 @@
     "year": 1969,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "philosophy"
+      "language-games",
+      "certainty",
+      "evidence",
+      "meaning",
+      "semantics",
+      "philosophical investigation"
     ],
-    "short_summary": "A philosophical work by Ludwig Wittgenstein (1969).",
-    "central_argument": "",
+    "short_summary": "Über Gewissheit, written by Ludwig Wittgenstein in 1969, is a collection of notes on certainty and evidence that were left unpublished during his lifetime. It explores various aspects of knowledge and belief.",
+    "central_argument": "The central argument revolves around the idea that language and thought are intertwined, and that understanding how words function in our language-games is crucial to understanding certainty and evidence.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2271,10 +2289,14 @@
     "year": 1956,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "logic"
+      "mathematical propositions",
+      "language-game",
+      "formalism",
+      "meaning",
+      "private experience"
     ],
-    "short_summary": "A philosophical work by Ludwig Wittgenstein (1956).",
-    "central_argument": "",
+    "short_summary": "Bemerkungen über die Grundlagen der Mathematik (Remarks on the Foundations of Mathematics) is a work by Ludwig Wittgenstein that explores the nature of mathematical propositions and their relationship to logic, language, and reality.",
+    "central_argument": "The central argument suggests that the foundations of mathematics are not based on formal systems or logical structures but rather on the use and understanding of mathematical language within a community.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2284,10 +2306,15 @@
     "year": 1944,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "philosophy"
+      "empiricism",
+      "logicism",
+      "skepticism",
+      "ethics",
+      "mathematics",
+      "metaphysics"
     ],
-    "short_summary": "A philosophical work by Bertrand Russell (1944).",
-    "central_argument": "",
+    "short_summary": "Autobiography is a six-volume account of Bertrand Russell's life from his early childhood to mid-adulthood, reflecting on personal experiences, intellectual development, and philosophical insights.",
+    "central_argument": "The book does not present a central argument in the traditional sense but rather offers an introspective exploration of the author's philosophical ideas and personal growth within the context of his life.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2297,10 +2324,15 @@
     "year": 1945,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "philosophy"
+      "analytic philosophy",
+      "empiricism",
+      "rationalism",
+      "skepticism",
+      "platonism",
+      "materialism"
     ],
-    "short_summary": "A philosophical work by Bertrand Russell (1945).",
-    "central_argument": "",
+    "short_summary": "A History of Western Philosophy provides a comprehensive exploration of key figures and ideas in Western philosophy from ancient Greece to the early 20th century, reflecting Bertrand Russell's analytic perspective.",
+    "central_argument": "Russell presents an engaging narrative of the development of Western philosophy, emphasizing its evolution and impact on human thought.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2310,12 +2342,14 @@
     "year": 1900,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "theory of knowledge",
-      "metaphysics",
-      "knowledge, theory of"
+      "sense-data",
+      "realism",
+      "empiricism",
+      "idealism",
+      "materialism"
     ],
-    "short_summary": "A philosophical work by Bertrand Russell (1900).",
-    "central_argument": "",
+    "short_summary": "Bertrand Russell's 'The Problems of Philosophy' is an introduction to fundamental philosophical issues including reality, knowledge, matter, mind, causation, and ethics, presented in a lucid and engaging manner.",
+    "central_argument": "'The external world is not known directly but only by inference from sense-data.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -2325,10 +2359,14 @@
     "year": 1927,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "godsdienstfilosofie"
+      "logical inconsistency",
+      "historical accuracy",
+      "mythology",
+      "intolerance",
+      "scientific progress"
     ],
-    "short_summary": "A philosophical work by Bertrand Russell (1927).",
-    "central_argument": "",
+    "short_summary": "Bertrand Russell outlines his reasons for rejecting Christianity, discussing its logical inconsistencies, historical inaccuracies, and harmful effects on morality and science.",
+    "central_argument": "Russell argues that Christianity is logically untenable due to its contradictions, historically unreliable due to mythological elements, and morally flawed because it fosters intolerance and hinders scientific progress.",
     "related_books": [],
     "source": "open_library"
   },
