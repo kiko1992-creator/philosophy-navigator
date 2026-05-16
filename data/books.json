@@ -2376,10 +2376,15 @@
     "year": 1949,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "philosophy"
+      "authority",
+      "individualism",
+      "reason",
+      "obedience",
+      "moral relativism",
+      "social control"
     ],
-    "short_summary": "A philosophical work by Bertrand Russell (1949).",
-    "central_argument": "",
+    "short_summary": "Bertrand Russell's 'Authority and the Individual' explores the complex relationship between individual freedom and societal control, discussing the role of authority in shaping human behavior and moral beliefs.",
+    "central_argument": "'Authority should be based on reason rather than tradition or unquestioned obedience.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -2389,10 +2394,15 @@
     "year": 1923,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "philosophy"
+      "atomic theory",
+      "materialism",
+      "indivisibility",
+      "empiricism",
+      "matter",
+      "simplicity"
     ],
-    "short_summary": "A philosophical work by Bertrand Russell (1923).",
-    "central_argument": "",
+    "short_summary": "The ABC of Atoms presents a popular account of Russell's atomic theory of matter, explaining how objects are composed of tiny indivisible units called 'atoms' and providing an introduction to his philosophical ideas.",
+    "central_argument": "Russell argues that all material objects can be ultimately reduced to simple, indivisible entities, or atoms, and that these atoms are the fundamental building blocks of the universe.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2402,10 +2412,14 @@
     "year": 1910,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "logic"
+      "logical atomism",
+      "empiricism",
+      "knowledge by acquaintance and knowledge by description",
+      "matters of fact",
+      "ethics"
     ],
-    "short_summary": "A philosophical work by Bertrand Russell (1910).",
-    "central_argument": "",
+    "short_summary": "Philosophical Essays contains Bertrand Russell's analyses of various philosophical topics, including knowledge, perception, matters of fact, and ethics.",
+    "central_argument": "Russell challenges traditional metaphysical views and presents his own perspectives on these topics, emphasizing the importance of logical clarity and empiricism.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2415,10 +2429,14 @@
     "year": 1930,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "philosophy"
+      "happiness",
+      "personal freedom",
+      "love",
+      "intellectual pursuit",
+      "attitude"
     ],
-    "short_summary": "A philosophical work by Bertrand Russell (1930).",
-    "central_argument": "",
+    "short_summary": "Bertrand Russell explores the nature of happiness, its importance in life, and how to achieve it through personal freedom, love, and intellectual satisfaction.",
+    "central_argument": "Happiness is a matter of personal attitude and can be achieved by focusing on personal freedoms, loving relationships, and intellectual pursuits.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2428,10 +2446,15 @@
     "year": 1976,
     "tradition": "Post-structuralism",
     "key_concepts": [
-      "sexual ethics"
+      "power-knowledge",
+      "discourse",
+      "sexuality",
+      "repressive hypothesis",
+      "scientia sexualis",
+      "bio-power"
     ],
-    "short_summary": "A philosophical work by Michel Foucault (1976).",
-    "central_argument": "",
+    "short_summary": "Michel Foucault's 'Histoire de la sexualité' is a four-volume work that explores the history of sexuality in Western society, investigating its formation as a scientific and political discourse.",
+    "central_argument": "'Sexuality' as we know it today is not a natural or universal aspect of human existence but rather a constructed concept shaped by social, historical, and political forces.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2441,10 +2464,15 @@
     "year": 1975,
     "tradition": "Post-structuralism",
     "key_concepts": [
-      "philosophy"
+      "power-knowledge",
+      "discipline",
+      "panopticon",
+      "biopower",
+      "docile bodies",
+      "penality"
     ],
-    "short_summary": "A philosophical work by Michel Foucault (1975).",
-    "central_argument": "",
+    "short_summary": "Michel Foucault's 'Discipline and Punish' explores the evolution of punishment systems in Western society from public spectacles to modern institutions like prisons, emphasizing the relationship between power, knowledge, and social control.",
+    "central_argument": "'Society as a whole is subjected to a mechanism of power that assures its cohesion by its capacity for making forget.', suggesting that societal order is maintained through various mechanisms that suppress memory or alternative narratives.",
     "related_books": [],
     "source": "open_library"
   },

@@ -63,16 +63,49 @@ def summary(b):
         "key_concepts": b.get("key_concepts",[])[:5],
     }
 
-def profile(b):
-    return {
-        "title": b.get("title",""), "author": b.get("author",""),
-        "year": b.get("year"), "year_str": year_str(b.get("year")),
-        "tradition": b.get("tradition",""),
-        "short_summary": b.get("short_summary",""),
-        "central_argument": b.get("central_argument",""),
-        "key_concepts": b.get("key_concepts",[]),
-        "related_books": b.get("related_books",[]),
-    }
+def print_profile(b):
+    title     = b.get("title", "")
+    author    = b.get("author", "")
+    year      = year_str(b.get("year"))
+    tradition = b.get("tradition", "")
+    summary   = b.get("short_summary", "")
+    argument  = b.get("central_argument", "")
+    concepts  = b.get("key_concepts", [])
+    related   = b.get("related_books", [])
+
+    print(f"\n{'='*60}")
+    print(f"  {title}")
+    print(f"{'='*60}")
+    print(f"  Author    : {author}")
+    print(f"  Year      : {year}")
+    print(f"  Tradition : {tradition}")
+
+    if summary:
+        print(f"\n  WHAT IS IT?")
+        print(f"  {summary}")
+
+    if argument:
+        print(f"\n  CENTRAL ARGUMENT")
+        print(f"  {argument}")
+
+    if concepts:
+        print(f"\n  KEY CONCEPTS")
+        # Show concepts as a numbered list for readability
+        for i, c in enumerate(concepts, 1):
+            print(f"    {i}. {c}")
+
+    if related:
+        print(f"\n  WHAT TO READ NEXT")
+        for r in related:
+            print(f"    → {r}")
+    elif tradition:
+        print(f"\n  WHAT TO READ NEXT")
+        print(f"  Try: py src/main.py search-tradition \"{tradition}\" --sort year")
+        print(f"  Try: py src/main.py similar \"{title}\"")
+
+    print(f"\n{'─'*60}")
+    print(f"  Search more: py src/main.py similar \"{title[:30]}\"")
+    print()
 
 
 def print_list(books):
