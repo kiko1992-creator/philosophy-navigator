@@ -2148,13 +2148,15 @@
     "year": 2005,
     "tradition": "Rationalism",
     "key_concepts": [
-      "ethics",
-      "modern ethics",
-      "ethics, history",
-      "ethics, modern, 17th century"
+      "god-or-nature",
+      "monism",
+      "substance",
+      "attribute",
+      "mode",
+      "causality"
     ],
-    "short_summary": "A philosophical work by Benedictus de Spinoza (2005).",
-    "central_argument": "",
+    "short_summary": "Spinoza's Ethics outlines his system of rationalism and monism, exploring topics such as God, the nature of reality, and human ethics.",
+    "central_argument": "Everything in existence is part of God or Nature, and our understanding of it leads to greater happiness or 'beatitude'",
     "related_books": [],
     "source": "open_library"
   },
@@ -2164,10 +2166,15 @@
     "year": 2002,
     "tradition": "Rationalism",
     "key_concepts": [
-      "philosophy"
+      "god",
+      "substance",
+      "attribute",
+      "mode",
+      "determinism",
+      "ethics"
     ],
-    "short_summary": "A philosophical work by Campbell (2002).",
-    "central_argument": "",
+    "short_summary": "Campbell's 'Ethics' is a comprehensive exploration of Baruch Spinoza's metaphysical treatise, discussing the nature of God, substance, attributes, modes, and human beings in the context of determinism and ethics.",
+    "central_argument": "'All things are modes of one substance', which implies that everything in existence is an expression of a single, indivisible entity, God or Nature.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2177,14 +2184,14 @@
     "year": 1953,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "language and languages",
-      "symbolic and mathematical logic",
-      "ordinary language philosophy",
-      "private language problem",
-      "language and languages, philosophy"
+      "language-game",
+      "use of words",
+      "meaning",
+      "philosophical problems",
+      "forms of life"
     ],
-    "short_summary": "A philosophical work by Ludwig Wittgenstein (1953).",
-    "central_argument": "",
+    "short_summary": "Philosophische Untersuchungen (Philosophical Investigations) is a posthumous work by Ludwig Wittgenstein that challenges traditional views on language, meaning, and reality, presenting his philosophy of language known as 'language-game' theory.",
+    "central_argument": "The central argument is that the meanings of words are not inherent but are determined by their use in a specific context (language-games), and that philosophical problems arise due to misunderstandings about the nature of language.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2194,10 +2201,15 @@
     "year": 1990,
     "tradition": "Analytic Philosophy",
     "key_concepts": [
-      "philosophy"
+      "language-game",
+      "private experience",
+      "meaning",
+      "logic",
+      "form-of-life",
+      "rule-following"
     ],
-    "short_summary": "A philosophical work by Ray Monk (1990).",
-    "central_argument": "",
+    "short_summary": "Ray Monk's 'Ludwig Wittgenstein' provides a detailed biography of the philosopher, exploring his life and work, particularly focusing on his development of the philosophy of language and his influential works Tractatus Logico-Philosophicus and Philosophical Investigations.",
+    "central_argument": "Wittgenstein's philosophy revolves around the idea that the meaning of words is based on their use in the language, challenging traditional views on logic, reality, and the limits of representation.",
     "related_books": [],
     "source": "open_library"
   },

@@ -41,6 +41,20 @@ def find_book(books, q):
     return None
 
 
+def apply_sort_and_page(books, sort=None, offset=0, limit=None):
+    """Sort and paginate a book list."""
+    if sort == "year":
+        books = sorted(books, key=lambda b: (b.get("year") is None, b.get("year", 0)))
+    elif sort == "title":
+        books = sorted(books, key=lambda b: b.get("title", "").lower())
+    elif sort == "author":
+        books = sorted(books, key=lambda b: b.get("author", "").lower())
+    books = books[offset:]
+    if limit is not None:
+        books = books[:limit]
+    return books
+
+
 def summary(b):
     return {
         "title": b.get("title",""), "author": b.get("author",""),
@@ -126,33 +140,54 @@ def main():
                     help="Export results to CSV file")
     sub = ap.add_subparsers(dest="command")
 
-    sub.add_parser("list")
+    # list
+    p = sub.add_parser("list")
+    p.add_argument("--limit",  type=int, default=None)
+    p.add_argument("--offset", type=int, default=0)
+    p.add_argument("--sort",   choices=["year","title","author"], default=None)
 
+    # search-author
     p = sub.add_parser("search-author")
     p.add_argument("author")
+    p.add_argument("--limit",  type=int, default=None)
+    p.add_argument("--offset", type=int, default=0)
+    p.add_argument("--sort",   choices=["year","title","author"], default=None)
 
+    # search-concept
     p = sub.add_parser("search-concept")
     p.add_argument("concept")
+    p.add_argument("--limit",  type=int, default=None)
+    p.add_argument("--offset", type=int, default=0)
+    p.add_argument("--sort",   choices=["year","title","author"], default=None)
 
+    # search-tradition
     p = sub.add_parser("search-tradition")
     p.add_argument("tradition")
+    p.add_argument("--limit",  type=int, default=None)
+    p.add_argument("--offset", type=int, default=0)
+    p.add_argument("--sort",   choices=["year","title","author"], default=None)
 
+    # show
     p = sub.add_parser("show")
     p.add_argument("title")
 
+    # compare
     p = sub.add_parser("compare")
     p.add_argument("author1")
     p.add_argument("author2")
 
+    # similar
     p = sub.add_parser("similar")
     p.add_argument("title")
     p.add_argument("--top", type=int, default=5)
 
+    # timeline
     p = sub.add_parser("timeline")
     p.add_argument("--start",     type=int, default=None)
     p.add_argument("--end",       type=int, default=None)
     p.add_argument("--tradition", default=None)
 
+    # traditions
     p = sub.add_parser("traditions")
     p.add_argument("--detail", default=None)
 
@@ -166,24 +201,40 @@ def main():
     EXP   = args.export
 
     if args.command == "list":
-        if EXP: export_csv(books, EXP)
-        if J:   print(json.dumps({"total": len(books), "books": [summary(b) for b in books]}, indent=2, ensure_ascii=False))
-        else:   print_list(books)
+        results = apply_sort_and_page(books,
+                    getattr(args, "sort", None),
+                    getattr(args, "offset", 0),
+                    getattr(args, "limit", None))
+        if EXP: export_csv(results, EXP)
+        if J:   print(json.dumps({"total": len(results), "books": [summary(b) for b in results]}, indent=2, ensure_ascii=False))
+        else:   print_list(results)
 
     elif args.command == "search-author":
         m = search_author(books, args.author)
+        m = apply_sort_and_page(m,
+                getattr(args, "sort", None),
+                getattr(args, "offset", 0),
+                getattr(args, "limit", None))
         if EXP: export_csv(m, EXP)
         if J:   print(json.dumps({"query": args.author, "total": len(m), "books": [summary(b) for b in m]}, indent=2, ensure_ascii=False))
         else:   print_results(m, "author", args.author)
 
     elif args.command == "search-concept":
         m = search_concept(books, args.concept)
+        m = apply_sort_and_page(m,
+                getattr(args, "sort", None),
+                getattr(args, "offset", 0),
+                getattr(args, "limit", None))
         if EXP: export_csv(m, EXP)
         if J:   print(json.dumps({"query": args.concept, "total": len(m), "books": [summary(b) for b in m]}, indent=2, ensure_ascii=False))
         else:   print_results(m, "concept", args.concept)
 
     elif args.command == "search-tradition":
         m = search_tradition(books, args.tradition)
+        m = apply_sort_and_page(m,
+                getattr(args, "sort", None),
+                getattr(args, "offset", 0),
+                getattr(args, "limit", None))
         if EXP: export_csv(m, EXP)
         if J:   print(json.dumps({"query": args.tradition, "total": len(m), "books": [summary(b) for b in m]}, indent=2, ensure_ascii=False))
         else:   print_results(m, "tradition", args.tradition)
