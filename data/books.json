@@ -2553,10 +2553,15 @@
     "year": 1970,
     "tradition": "Post-structuralism",
     "key_concepts": [
-      "philosophy"
+      "episteme",
+      "discourse",
+      "archaeology of knowledge",
+      "representation",
+      "classification",
+      "problematization"
     ],
-    "short_summary": "A philosophical work by Michel Foucault (1970).",
-    "central_argument": "",
+    "short_summary": "Mots et les choses (The Order of Things) explores Foucault's archaeology of knowledge as he delves into the evolution of human thought in the 16th, 17th, and 18th centuries, with a focus on the Classical, Renaissance, and Modern epistemes.",
+    "central_argument": "The book argues that each historical period has its unique organization of knowledge (episteme) which shapes the way individuals perceive and understand the world.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2566,10 +2571,15 @@
     "year": 1984,
     "tradition": "Post-structuralism",
     "key_concepts": [
-      "philosophy"
+      "power/knowledge",
+      "discourse",
+      "subjectivity",
+      "sexual ethics",
+      "anachronism",
+      "pederasty"
     ],
-    "short_summary": "A philosophical work by Michel Foucault (1984).",
-    "central_argument": "",
+    "short_summary": "Michel Foucault's 'Histoire de la sexualité, tome 2' delves into ancient Greek culture, examining sexuality in its relationship with power structures, knowledge production, and subject formation.",
+    "central_argument": "The book argues that Western society's understanding of sexuality has been shaped by the interplay of power relations and discourses throughout history.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2579,10 +2589,15 @@
     "year": 1949,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "otherness",
+      "woman-as-other",
+      "one's freedom is determined by the choices one makes",
+      "existentialism",
+      "myth of woman",
+      "becoming"
     ],
-    "short_summary": "A philosophical work by Simone de Beauvoir (1949).",
-    "central_argument": "",
+    "short_summary": "Le Deuxième Sexe (The Second Sex) is a groundbreaking work by Simone de Beauvoir exploring the role of women in society, arguing that their oppression stems from societal constructs rather than biological factors, and calling for gender equality.",
+    "central_argument": "Women's oppression is a sociological and historical phenomenon rooted in patriarchal social structures, not biology.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2592,10 +2607,15 @@
     "year": 1900,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "existentialism",
+      "othering",
+      "femininity",
+      "patriarchy",
+      "self-realization",
+      "personal freedom"
     ],
-    "short_summary": "A philosophical work by Simone de Beauvoir (1900).",
-    "central_argument": "",
+    "short_summary": "Mémoires d'une jeune fille rangée is a semi-autobiographical novel by Simone de Beauvoir that explores her early life, relationships, and personal struggles as she navigates societal expectations and her own desire for freedom in a male-dominated world.",
+    "central_argument": "The book argues that women are subjected to 'othering' and oppression due to patriarchal society, which results in them adopting self-limiting roles.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2605,10 +2625,15 @@
     "year": 1964,
     "tradition": "Existentialism",
     "key_concepts": [
-      "french language"
+      "existentialism",
+      "old age",
+      "mortality",
+      "personal freedom",
+      "authenticity",
+      "individualism"
     ],
-    "short_summary": "A philosophical work by Simone de Beauvoir (1964).",
-    "central_argument": "",
+    "short_summary": "Une mort tres douce (A Very Gentle Death) is Simone de Beauvoir's exploration of her personal struggle with old age and approaching death, reflecting on existential themes such as freedom, authenticity, and individualism.",
+    "central_argument": "'The acceptance of one's mortality, while maintaining an active engagement with life, embodies a genuine commitment to personal freedom.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -2618,10 +2643,15 @@
     "year": 1954,
     "tradition": "Existentialism",
     "key_concepts": [
-      "french language materials"
+      "existentialism",
+      "intellectual elite",
+      "disillusionment",
+      "hypocrisy",
+      "personal freedom",
+      "alienation"
     ],
-    "short_summary": "A philosophical work by Simone de Beauvoir (1954).",
-    "central_argument": "",
+    "short_summary": "Les Mandarins explores the lives of a group of French intellectuals following World War II, examining their disillusionment with society, personal relationships, and their role in shaping post-war France.",
+    "central_argument": "The central argument is that these mandarins, despite their intellectual superiority, are trapped by their own pretentions, hypocrisy, and inability to connect emotionally or practically with the world around them.",
     "related_books": [],
     "source": "open_library"
   },
