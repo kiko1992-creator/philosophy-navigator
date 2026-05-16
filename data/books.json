@@ -995,10 +995,16 @@
     "year": 2016,
     "tradition": "German Idealism",
     "key_concepts": [
-      "philosophy"
+      "dialectic",
+      "genealogy",
+      "knowledge",
+      "power",
+      "historical conditions",
+      "absolute spirit",
+      "discursive practices"
     ],
-    "short_summary": "A philosophical work by Evangelia Sembou (2016).",
-    "central_argument": "",
+    "short_summary": "Evangelia Sembou's 'Hegel's Phenomenology and Foucault's Genealogy' compares the dialectical method of German Idealism, as presented by Hegel in his Phenomenology, with Foucault's genealogical approach. It discusses their similarities, differences, and potential synergies.",
+    "central_argument": "'Both Hegel's dialectic and Foucault's genealogy aim to uncover the historical and social conditions that shape knowledge and power; however, they differ in their emphasis on transformation versus critique, and absolute spirit versus discursive practices.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1008,11 +1014,14 @@
     "year": 1885,
     "tradition": "Existentialism",
     "key_concepts": [
-      "ethics",
-      "ethics (philosophy)"
+      "perspectivism",
+      "will to power",
+      "eternal recurrence",
+      "master-slave morality",
+      "nihilism"
     ],
-    "short_summary": "A philosophical work by Friedrich Nietzsche (1885).",
-    "central_argument": "",
+    "short_summary": "Jenseits von Gut und Böse (Beyond Good and Evil) critiques morality, religion, and philosophy, advocating for individual self-cultivation, self-overcoming, and the rejection of traditional values.",
+    "central_argument": "The moral and religious values upheld by society are a product of human ignorance and fear, rather than objective truth, and should be questioned and transcended.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1022,11 +1031,14 @@
     "year": 1883,
     "tradition": "Existentialism",
     "key_concepts": [
-      "german language",
-      "german language, conversation and phrase books"
+      "will-to-power",
+      "eternal-recurrence",
+      "superman",
+      "nihilism",
+      "dionysian-apollonian"
     ],
-    "short_summary": "A philosophical work by Friedrich Nietzsche (1883).",
-    "central_argument": "",
+    "short_summary": "Also sprach Zarathustra (Thus Spoke Zarathustra) is a philosophical novel exploring themes of self-cultivation, the individual's search for meaning, and the overcoming of nihilism.",
+    "central_argument": "The central argument emphasizes the necessity of individuals to embrace their own will to power, become their own creators, and overcome society's moral and cultural limitations in order to achieve self-mastery.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1036,10 +1048,15 @@
     "year": 1895,
     "tradition": "Existentialism",
     "key_concepts": [
-      "ethics"
+      "will-to-power",
+      "slave morality",
+      "eternal recurrence",
+      "nihilism",
+      "apotheosis of the intellect",
+      "death of God"
     ],
-    "short_summary": "A philosophical work by Friedrich Nietzsche (1895).",
-    "central_argument": "",
+    "short_summary": "Der Antichrist is a polemical critique by Nietzsche against Christianity, its morality, and its influence on Western thought.",
+    "central_argument": "The central argument of Der Antichrist is that Christianity is a slave morality that denigrates the will to power and undermines the health and strength of individuals and cultures.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1049,10 +1066,15 @@
     "year": 1992,
     "tradition": "Existentialism",
     "key_concepts": [
-      "fiction, psychological"
+      "existentialism",
+      "psychology",
+      "madness",
+      "philosophical crisis",
+      "human condition",
+      "creativity"
     ],
-    "short_summary": "A philosophical work by Irvin D. Yalom (1992).",
-    "central_argument": "",
+    "short_summary": "When Nietzsche Wept is a fictional exploration of the psychological struggles of German philosopher Friedrich Nietzsche, as he confronts a mental breakdown and encounters a psychiatrist who helps him deal with his suffering.",
+    "central_argument": "The central argument is that existential crises, emotional turmoil, and even madness can be found in the lives of great philosophers, such as Nietzsche, and may have profound implications for their work.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1062,10 +1084,15 @@
     "year": 1872,
     "tradition": "Existentialism",
     "key_concepts": [
-      "ethics"
+      "apollonian",
+      "dionysian",
+      "tragic chorus",
+      "aesthetic experience",
+      "spiritual health",
+      "european cultural history"
     ],
-    "short_summary": "A philosophical work by Friedrich Nietzsche (1872).",
-    "central_argument": "",
+    "short_summary": "In Die Geburt der Tragödie (The Birth of Tragedy), Friedrich Nietzsche explores the evolution and significance of Greek tragedy, its dichotomy between Apollonian and Dionysian forces, and their influence on Western culture.",
+    "central_argument": "The integration of the conflicting forces of Apollonian reason and Dionysian ecstasy in ancient Greek tragedy leads to a balanced and fulfilling aesthetic experience that promotes spiritual health.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1075,12 +1102,15 @@
     "year": 1887,
     "tradition": "Existentialism",
     "key_concepts": [
-      "ethics",
-      "ethics & moral philosophy",
-      "ethics (philosophy)"
+      "slave morality",
+      "master morality",
+      "ressentiment",
+      "good and evil",
+      "will to power",
+      "ascetic ideal"
     ],
-    "short_summary": "A philosophical work by Friedrich Nietzsche (1887).",
-    "central_argument": "",
+    "short_summary": "Zur Genealogie der Moral (On the Genealogy of Morals) is a critique of moral norms and values, arguing that they have evolved from power dynamics and social hierarchies.",
+    "central_argument": "Moral norms originated as tools for the oppressed to control the powerful, and have become internalized by society as universal truths.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1090,10 +1120,14 @@
     "year": 1962,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "will_to_power",
+      "eternal_recurrence",
+      "nihilism",
+      "ubermensch",
+      "amor_fati"
     ],
-    "short_summary": "A philosophical work by Gilles Deleuze (1962).",
-    "central_argument": "",
+    "short_summary": "Gilles Deleuze's 'Nietzsche et la philosophie' is a comprehensive examination of Friedrich Nietzsche's philosophy, exploring themes such as eternal recurrence, will to power, nihilism, and the Übermensch.",
+    "central_argument": "'Will to Power' serves as the fundamental concept that underpins all aspects of Nietzsche's philosophy according to Deleuze.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1103,10 +1137,15 @@
     "year": 1900,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "will-to-power",
+      "eternal-recurrence",
+      "master-slave-moralities",
+      "perspectivism",
+      "ubermensch",
+      "amor-fati"
     ],
-    "short_summary": "A philosophical work by Friedrich Nietzsche (1900).",
-    "central_argument": "",
+    "short_summary": "Exploration of existential themes, such as individual will, moral values, and the death of God, through a collection of works by Friedrich Nietzsche, including 'Thus Spoke Zarathustra', 'Beyond Good and Evil', and 'On the Genealogy of Morals'.",
+    "central_argument": "The rejection of traditional moral values and religious beliefs; the affirmation of individual will to power as the driving force behind human behavior.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1116,12 +1155,15 @@
     "year": 1927,
     "tradition": "Existentialism",
     "key_concepts": [
-      "ontology",
-      "metaphysics",
-      "ontology (metaphysics)"
+      "dasein",
+      "being",
+      "time",
+      "being-towards-death",
+      "authenticity",
+      "inauthenticity"
     ],
-    "short_summary": "A philosophical work by Martin Heidegger (1927).",
-    "central_argument": "",
+    "short_summary": "Sein und Zeit ('Being and Time') by Martin Heidegger is a foundational work of existentialist philosophy, exploring the nature of being, time, and human existence, particularly focusing on Dasein (human being) and its understanding of being.",
+    "central_argument": "'Dasein's primary concern is with its own being, and this involves an understanding of 'being-towards-death', which defines our existence as finite and temporal.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1131,10 +1173,15 @@
     "year": 1978,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "existence",
+      "essence",
+      "being",
+      "time",
+      "dasein",
+      "authenticity"
     ],
-    "short_summary": "A philosophical work by George Steiner (1978).",
-    "central_argument": "",
+    "short_summary": "George Steiner's 'Martin Heidegger' is a biographical and philosophical analysis of the life and works of German philosopher Martin Heidegger, focusing on his key contributions to Existentialism, particularly Being and Time.",
+    "central_argument": "'Existence precedes essence': Heidegger's core idea that individual beings determine their own identity rather than being predetermined by social or societal norms",
     "related_books": [],
     "source": "open_library"
   },
@@ -1144,10 +1191,15 @@
     "year": 1961,
     "tradition": "Existentialism",
     "key_concepts": [
-      "metaphysics"
+      "will-to-power",
+      "eternal-recurrence",
+      "death-of-god",
+      "beeing",
+      "truth",
+      "nihilism"
     ],
-    "short_summary": "A philosophical work by Martin Heidegger (1961).",
-    "central_argument": "",
+    "short_summary": "Heidegger's 'Nietzsche' is an interpretation of Nietzsche's philosophy, exploring his views on the will to power, eternal recurrence, and the death of God.",
+    "central_argument": "'Nietzsche' argues that Nietzsche's philosophy centers around a rejection of metaphysics and traditional values, leading to a new understanding of being and truth.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1157,10 +1209,16 @@
     "year": 1902,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "existentialism",
+      "self-awareness",
+      "direct experience",
+      "individual consciousness",
+      "subjective truth",
+      "reality",
+      "knowledge"
     ],
-    "short_summary": "A philosophical work by Nathaniel Hawthorne (1902).",
-    "central_argument": "",
+    "short_summary": "A collection of five interconnected short stories that explore existential themes, including the search for meaning, self-awareness, and the nature of reality.",
+    "central_argument": "'Dr. Heidegger's Experiment' argues that true knowledge comes from direct experience rather than abstract reasoning, a nod to Existentialism's emphasis on individual consciousness and subjective truth.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1170,10 +1228,15 @@
     "year": 1959,
     "tradition": "Existentialism",
     "key_concepts": [
-      "ontology"
+      "gelassenheit",
+      "being",
+      "technology",
+      "nature",
+      "attitude",
+      "releasement"
     ],
-    "short_summary": "A philosophical work by Martin Heidegger (1959).",
-    "central_argument": "",
+    "short_summary": "Gelassenheit is a lecture by Martin Heidegger discussing the concept of 'releasement to things,' emphasizing our relationship with nature and understanding of being in the face of technology.",
+    "central_argument": "'Gelassenheit' refers to a humble, receptive attitude towards beings and being itself, counteracting the dominating and manipulative tendencies of modern technology.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1183,13 +1246,15 @@
     "year": 1959,
     "tradition": "Existentialism",
     "key_concepts": [
-      "language and languages",
-      "language and languages -- philosophy",
+      "being",
       "language",
-      "language development"
+      "truth",
+      "hermeneutics",
+      "unconcealment",
+      "revelation"
     ],
-    "short_summary": "A philosophical work by Martin Heidegger (1959).",
-    "central_argument": "",
+    "short_summary": "Underwegs zur Sprache (On the Way to Language) is a philosophical exploration by Martin Heidegger on the nature of language, its relationship with being, and its role in revealing truth.",
+    "central_argument": "Language is not merely a tool for communication but an inherent part of being that enables us to understand and engage with the world.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1199,10 +1264,15 @@
     "year": 1954,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "thinking",
+      "essence",
+      "being",
+      "authenticity",
+      "logos",
+      "hermeneutics"
     ],
-    "short_summary": "A philosophical work by Martin Heidegger (1954).",
-    "central_argument": "",
+    "short_summary": "In 'Was heisst Denken?', Martin Heidegger explores and critiques Western philosophy's understanding of thinking, arguing for a more authentic and original mode of thought.",
+    "central_argument": "'True thinking' is distinct from logical or abstract reasoning; it reveals the essence of beings and opens up possibilities for being.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1212,10 +1282,15 @@
     "year": 1977,
     "tradition": "Existentialism",
     "key_concepts": [
-      "ontology"
+      "enframing (Gestell)",
+      "authenticity",
+      "presence",
+      "technology",
+      "Dasein",
+      "the essence of technology"
     ],
-    "short_summary": "A philosophical work by Martin Heidegger (1977).",
-    "central_argument": "",
+    "short_summary": "Explores the nature of technology and its impact on human existence, arguing that it is not merely a tool but fundamentally shapes our relationship with the world.",
+    "central_argument": "Technology, as enframing (Gestell), governs and restricts human interaction with the world, leading to a loss of authenticity and presence.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1225,10 +1300,15 @@
     "year": 1938,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "existence precedes essence",
+      "authenticity",
+      "bad faith",
+      "otherness",
+      "anguish",
+      "nihilism"
     ],
-    "short_summary": "A philosophical work by Jean-Paul Sartre (1938).",
-    "central_argument": "",
+    "short_summary": "La Nausée (Nausea) is a semi-autobiographical novel exploring the existential crisis of a young philosophy student, Antoine Roquentin, who encounters an inexplicable feeling of disgust towards everything around him, leading to his quest for meaning and authenticity.",
+    "central_argument": "'Existence precedes essence': our identities are not predetermined but self-created, and the fear of non-being (nausea) arises when we resist this responsibility of creating ourselves.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1238,10 +1318,15 @@
     "year": 2007,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "existence precedes essence",
+      "bad faith",
+      "authenticity",
+      "freedom",
+      "responsibility",
+      "humanism"
     ],
-    "short_summary": "A philosophical work by Jean-Paul Sartre (2007).",
-    "central_argument": "",
+    "short_summary": "Existentialism Is a Humanism is a philosophical essay by Jean-Paul Sartre that presents his version of existentialism as a humanism, emphasizing individual freedom, responsibility, and existence preceding essence.",
+    "central_argument": "'Existence precedes essence' - individuals define themselves through their actions, choices, and freedom.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1251,10 +1336,15 @@
     "year": 1983,
     "tradition": "Existentialism",
     "key_concepts": [
-      "knowledge and learning"
+      "existentialism",
+      "personal choice",
+      "responsibility",
+      "freedom",
+      "identity",
+      "individuality"
     ],
-    "short_summary": "A philosophical work by Michael Scriven (1983).",
-    "central_argument": "",
+    "short_summary": "Sartre's Existential Biographies is a study of Jean-Paul Sartre's philosophical biographies, examining his approach to understanding individuals through their personal choices and circumstances.",
+    "central_argument": "The book argues that Sartre's existential biographies demonstrate the inherent freedom and responsibility of human beings in shaping their own lives and identities.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1264,10 +1354,15 @@
     "year": 2022,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "existentialism",
+      "human existence",
+      "individual freedom",
+      "responsibility",
+      "psychoanalytic practice",
+      "self-determination"
     ],
-    "short_summary": "A philosophical work by Mary L. Edwards (2022).",
-    "central_argument": "",
+    "short_summary": "Sartre's Existential Psychoanalysis explores Jean-Paul Sartre's theories on human existence as applied to psychoanalytic practice, arguing for a new method of therapy that emphasizes individual freedom and responsibility.",
+    "central_argument": "'The goal of existential psychoanalysis is to help individuals embrace their freedom and take full responsibility for shaping their own lives.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1277,10 +1372,14 @@
     "year": 1943,
     "tradition": "Existentialism",
     "key_concepts": [
-      "ontology"
+      "existentiaism",
+      "bad faith",
+      "authenticity",
+      "for-itself (pour-soi)",
+      "in-itself (en-soi)"
     ],
-    "short_summary": "A philosophical work by Jean-Paul Sartre (1943).",
-    "central_argument": "",
+    "short_summary": "L'être et le néant (Being and Nothingness) is a philosophical treatise by Jean-Paul Sartre that explores existentialism, human freedom, and the nature of consciousness.",
+    "central_argument": "Human beings are free to create their own identities but are also burdened with the responsibility of such self-creation, as they must continually justify their actions and choices.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1290,10 +1389,16 @@
     "year": 1956,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "existentialism",
+      "individualism",
+      "freedom",
+      "responsibility",
+      "absurdity",
+      "authenticity",
+      "anguish"
     ],
-    "short_summary": "A philosophical work by Walter Arnold Kaufmann (1956).",
-    "central_argument": "",
+    "short_summary": "A comprehensive exploration of the development of existentialist thought from Dostoevsky to Sartre, delving into their unique perspectives on human existence, freedom, and responsibility.",
+    "central_argument": "Explores how Dostoevsky and Sartre, among others, contributed significantly to the evolution of existentialism by emphasizing individual freedom, personal responsibility, and the absurdity of life in their respective works.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1303,10 +1408,14 @@
     "year": 1975,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "existence before essence",
+      "angst",
+      "absurdity",
+      "authenticity",
+      "bad faith"
     ],
-    "short_summary": "A philosophical work by Unknown Author (1975).",
-    "central_argument": "",
+    "short_summary": "Existentialism is a collection of essays that explores various existential themes such as freedom, responsibility, and individuality in human existence, published in 1975.",
+    "central_argument": "Human beings are defined by their free will and personal responsibility for the choices they make in life.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1316,10 +1425,15 @@
     "year": 1946,
     "tradition": "Existentialism",
     "key_concepts": [
-      "french language materials"
+      "existence-pour-soi",
+      "existence-en-soi",
+      "bad faith",
+      "authenticity",
+      "freedom",
+      "angst"
     ],
-    "short_summary": "A philosophical work by Jean-Paul Sartre (1946).",
-    "central_argument": "",
+    "short_summary": "L'existentialisme est un humanisme presents Sartre's vision of existentialism as a humanist philosophy, emphasizing individual freedom, responsibility, and authenticity.",
+    "central_argument": "Human existence is characterized by freedom, which entails the burden of personal responsibility for one's choices.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1329,14 +1443,15 @@
     "year": 1958,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "justice",
-      "ethics",
-      "justice (philosophy)",
-      "social justice",
-      "justice sociale"
+      "veil of ignorance",
+      "original position",
+      "justice as fairness",
+      "distributive justice",
+      "basic liberties",
+      "maximin principle"
     ],
-    "short_summary": "A philosophical work by John Rawls (1958).",
-    "central_argument": "",
+    "short_summary": "Justice as Fairness outlines a theory of justice that aims to establish principles for a just society by imagining a hypothetical situation where individuals choose societal rules blind to their personal circumstances.",
+    "central_argument": "The most just society is one in which its basic institutions are arranged to maximize the well-being and rights of the least advantaged members, under the veil of ignorance.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1346,10 +1461,14 @@
     "year": 2019,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "philosophy"
+      "justice as fairness",
+      "limited theory",
+      "universal moral theory",
+      "democratic societies",
+      "political philosophy"
     ],
-    "short_summary": "A philosophical work by Julius Bonaventura (2019).",
-    "central_argument": "",
+    "short_summary": "Julius Bonaventura's 'John Rawls: Justice as Fairness. Begrenzte Lehre Oder Universelle Moraltheorie der Gerechtigkeit?' explores and critiques John Rawls' theory of justice as fairness within political philosophy.",
+    "central_argument": "The book argues that while Rawls' theory provides valuable insights, it may be incomplete due to its focus on limited democratic societies and lacks a universal moral theory of justice.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1359,10 +1478,15 @@
     "year": 2010,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "philosophy"
+      "justice",
+      "fairness",
+      "social contract theory",
+      "veil of ignorance",
+      "distributive justice",
+      "primary goods"
     ],
-    "short_summary": "A philosophical work by Hercules Bantas (2010).",
-    "central_argument": "",
+    "short_summary": "Understanding John Rawls offers an accessible exploration of the life and works of prominent political philosopher John Rawls, focusing on his theories of justice and democratic equality.",
+    "central_argument": "'Justice as Fairness' is the principle that should govern a well-ordered society, emphasizing equal basic rights, liberties, and opportunities for all citizens through a hypothetical social contract scenario.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1372,12 +1496,15 @@
     "year": 1993,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "justice",
-      "justice sociale",
-      "justice distributive"
+      "political liberalism",
+      "justice as fairness",
+      "veil of ignorance",
+      "overlapping consensus",
+      "reasonable pluralism",
+      "burdens of judgment"
     ],
-    "short_summary": "A philosophical work by John Rawls (1993).",
-    "central_argument": "",
+    "short_summary": "John Rawls' 'Political Liberalism' presents a revised version of his theory of justice as fairness, aimed at finding common ground among reasonable pluralistic societies with various comprehensive doctrines.",
+    "central_argument": "'The burdens of judgment' are the unavoidable disagreements and conflicting interpretations that make it necessary for a well-ordered society to be based on a political liberalism rather than a comprehensive doctrine.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1387,14 +1514,15 @@
     "year": 2021,
     "tradition": "Political Philosophy",
     "key_concepts": [
+      "justice as fairness",
       "environmental justice",
-      "social justice",
-      "nature / general",
-      "nature / ecology",
-      "theory of justice (rawls, john)"
+      "sustainability",
+      "social equality",
+      "distributive justice",
+      "environmental resources"
     ],
-    "short_summary": "A philosophical work by John Töns (2021).",
-    "central_argument": "",
+    "short_summary": "John Töns's 'John Rawls and Environmental Justice' explores how John Rawls' political philosophy can be applied to environmental justice issues, advocating for a more equitable distribution of environmental burdens and benefits.",
+    "central_argument": "'Justice as fairness' should include principles for the equal distribution of environmental resources and burdens to promote sustainability and ensure social equality in environmental matters.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1404,10 +1532,15 @@
     "year": 1973,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "philosophy"
+      "justice as fairness",
+      "veil of ignorance",
+      "original position",
+      "maximin",
+      "basic rights and liberties",
+      "difference principle"
     ],
-    "short_summary": "A philosophical work by Unknown Author (1973).",
-    "central_argument": "",
+    "short_summary": "In 'A Theory of Justice', John Rawls proposes a social contract theory for a just society, where principles of justice are determined behind a veil of ignorance.",
+    "central_argument": "'Justice as Fairness' is the principle that should govern a well-ordered society, ensuring fairness and equality among its members.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1417,11 +1550,14 @@
     "year": 1684,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "ethics",
-      "droit naturel"
+      "state-of-nature",
+      "social-contract",
+      "leviathan",
+      "sovereignty",
+      "natural-rights"
     ],
-    "short_summary": "A philosophical work by Thomas Hobbes (1684).",
-    "central_argument": "",
+    "short_summary": "Human Nature explores Thomas Hobbes' theories on human behavior, society, and government, positing that in a state of nature, life is 'solitary, poor, nasty, brutish, and short'.",
+    "central_argument": "'Life in the state of nature is solitary, poor, nasty, brutish, and short' and that to escape this condition, individuals must surrender their natural freedoms to an absolute sovereign for social order.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1431,10 +1567,14 @@
     "year": 1839,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "philosophy"
+      "social contract",
+      "sovereignty",
+      "state of nature",
+      "natural rights",
+      "absolute power"
     ],
-    "short_summary": "A philosophical work by Thomas Hobbes (1839).",
-    "central_argument": "",
+    "short_summary": "The English works of Thomas Hobbes contains his seminal political philosophy texts, including 'Leviathan,' which presents a social contract theory and absolute sovereignty as necessary for maintaining order and avoiding the 'state of nature' chaos.",
+    "central_argument": "'Sovereign power is a moral fact derived from the consent of those governed, who surrender their individual natural rights to avoid the state of nature anarchy.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1444,11 +1584,14 @@
     "year": 1949,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "consciousness",
-      "psychological models"
+      "sovereignty",
+      "social contract",
+      "state of nature",
+      "leviathan",
+      "natural law"
     ],
-    "short_summary": "A philosophical work by Thomas Hobbes (1949).",
-    "central_argument": "",
+    "short_summary": "De Cive (Latin for 'The Citizen') is a political treatise by Thomas Hobbes arguing that the creation of a strong central government is essential to maintain peace and order in society due to the inherent state of nature's war among individuals.",
+    "central_argument": "'Life in the state of nature without government is solitary, poor, nasty, brutish, and short'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1458,10 +1601,15 @@
     "year": 2018,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "philosophy"
+      "sovereignty",
+      "social contract",
+      "state of nature",
+      "natural rights",
+      "absolutism",
+      "utilitarianism"
     ],
-    "short_summary": "A philosophical work by Thomas Hobbes (2018).",
-    "central_argument": "",
+    "short_summary": "Leviatán is a political philosophy work by Thomas Hobbes, published in 1651, where he argues for a strong centralized government to maintain peace and order amidst the chaos of the English Civil War.",
+    "central_argument": "'The life of man... is solitary, poor, nasty, brutish, and short.' To escape this state, individuals must surrender their natural freedom to an absolute sovereign for social order and peace.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1471,12 +1619,14 @@
     "year": 1689,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "theory of knowledge",
-      "knowledge",
-      "knowledge, theory of"
+      "empiricism",
+      "tabula rasa",
+      "simple idea",
+      "complex idea",
+      "primary and secondary qualities"
     ],
-    "short_summary": "A philosophical work by John Locke (1689).",
-    "central_argument": "",
+    "short_summary": "Essay concerning human understanding outlines Locke's empiricist theory of knowledge, asserting that all ideas originate from sensation or reflection.",
+    "central_argument": "'All simple ideas are derived either from sensation or reflection'.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1486,10 +1636,14 @@
     "year": 1714,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "philosophy"
+      "social contract theory",
+      "natural rights",
+      "consent of the governed",
+      "government",
+      "state of nature"
     ],
-    "short_summary": "A philosophical work by John Locke (1714).",
-    "central_argument": "",
+    "short_summary": "The works of John Locke, particularly his 'Two Treatises of Government,' present a social contract theory arguing that people have natural rights and establish government through consent to preserve these rights.",
+    "central_argument": "'Government derives its power from the consent of the governed, who agree to establish it in order to protect their natural rights.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1499,12 +1653,15 @@
     "year": 1693,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "theory of knowledge",
-      "reasoning",
-      "knowledge, theory of"
+      "tabula rasa",
+      "empiricism",
+      "reason",
+      "experience",
+      "moral guidance",
+      "education"
     ],
-    "short_summary": "A philosophical work by John Locke (1693).",
-    "central_argument": "",
+    "short_summary": "Some Thoughts Concerning Education presents Locke's ideas on education, advocating for a child-centered approach that emphasizes reason, experience, and moral guidance.",
+    "central_argument": "'The mind of a young child is like a blank slate (tabula rasa), which can be shaped through proper education.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1514,10 +1671,15 @@
     "year": 1957,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "philosophy"
+      "state of nature",
+      "social contract",
+      "natural rights",
+      "tabula rasa",
+      "liberty",
+      "property"
     ],
-    "short_summary": "A philosophical work by Maurice Cranston (1957).",
-    "central_argument": "",
+    "short_summary": "Cranston's 'John Locke' is an exploration of the life and political philosophy of 17th-century English philosopher John Locke. It delves into his theories on natural rights, government, and social contract.",
+    "central_argument": "'Anarchy is the state of nature, order issues from a social contract where individuals voluntarily surrender some freedoms to establish a government for common protection.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1527,10 +1689,14 @@
     "year": 1691,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "philosophy"
+      "natural rights",
+      "consent of the governed",
+      "limited government",
+      "social contract",
+      "state of nature"
     ],
-    "short_summary": "A philosophical work by John Locke (1691).",
-    "central_argument": "",
+    "short_summary": "John Locke's 'Two Treatises of Government' (1690) presents arguments for limited government, consent of the governed, and natural rights. Essay concerning the true original extent and end of civil government (1691) is a companion piece focusing on the origins and purpose of political power.",
+    "central_argument": "Government exists to protect individual natural rights (life, liberty, and property), derived from God or nature, and its powers are consensually granted by the people, limited to this purpose.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1540,10 +1706,14 @@
     "year": 1689,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "politics"
+      "natural rights",
+      "social contract",
+      "consent of the governed",
+      "tyranny",
+      "property"
     ],
-    "short_summary": "A philosophical work by John Locke (1689).",
-    "central_argument": "",
+    "short_summary": "Two Treatises on Government by John Locke explores the natural rights of individuals, legitimacy of government, and justification for rebellion against tyranny.",
+    "central_argument": "Legitimate governments exist to protect the property and lives of their citizens, and have the consent of those governed.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1553,13 +1723,15 @@
     "year": 1781,
     "tradition": "Political Philosophy",
     "key_concepts": [
+      "empiricism",
+      "critical thinking",
+      "education",
+      "experience",
       "reasoning",
-      "theory of knowledge",
-      "knowledge, theory of.",
-      "knowledge"
+      "tabula rasa"
     ],
-    "short_summary": "A philosophical work by John Locke (1781).",
-    "central_argument": "",
+    "short_summary": "John Locke's 'The Conduct of the Understanding' outlines his educational theories, emphasizing the importance of empirical methods in learning and critical thinking.",
+    "central_argument": "Locke argues that education should be based on experience, reasoning, and the questioning of accepted knowledge.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1569,10 +1741,14 @@
     "year": 1956,
     "tradition": "Political Philosophy",
     "key_concepts": [
-      "philosophy"
+      "social contract",
+      "consent of the governed",
+      "natural rights",
+      "state of nature",
+      "property"
     ],
-    "short_summary": "A philosophical work by John Locke (1956).",
-    "central_argument": "",
+    "short_summary": "John Locke's 'The Second Treatise on Civil Government' presents a social contract theory arguing that government derives its authority from the consent of the governed.",
+    "central_argument": "'Government derives its just power from the consent of the governed.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1582,12 +1758,15 @@
     "year": 1900,
     "tradition": "Empiricism",
     "key_concepts": [
-      "theory of knowledge",
-      "ethics",
-      "knowledge, theory of"
+      "empiricism",
+      "rationalism",
+      "skepticism",
+      "inductive reasoning",
+      "causality",
+      "passion and reason"
     ],
-    "short_summary": "A philosophical work by David Hume (1900).",
-    "central_argument": "",
+    "short_summary": "David Hume's 'Philosophical Essays concerning Human Understanding', originally published in 1748, explores epistemology, the nature of human knowledge, and the limits of reason. It critiques rationalism and emphasizes empiricism as a basis for understanding.",
+    "central_argument": "'Reason is slave to the passions' - arguing that our beliefs are primarily based on experience, not pure reasoning.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1597,10 +1776,15 @@
     "year": 1779,
     "tradition": "Empiricism",
     "key_concepts": [
-      "théologie naturelle"
+      "empiricism",
+      "natural religion",
+      "reason",
+      "instincts",
+      "customs",
+      "deism"
     ],
-    "short_summary": "A philosophical work by David Hume (1779).",
-    "central_argument": "",
+    "short_summary": "Dialogues Concerning Natural Religion is a posthumous work by David Hume, discussing the nature of religion through a series of conversations between three characters. They explore the origins and validity of religious beliefs based on empirical evidence.",
+    "central_argument": "The book argues that reason alone cannot provide a satisfactory foundation for religious beliefs; instead, they are largely based on human emotions and beliefs derived from instincts and customs.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1610,14 +1794,14 @@
     "year": 1739,
     "tradition": "Empiricism",
     "key_concepts": [
-      "theory of knowledge",
-      "ethics",
-      "knowledge",
-      "knowledge, theory of",
-      "reason"
+      "empiricism",
+      "cause and effect",
+      "skepticism",
+      "belief",
+      "impression and idea"
     ],
-    "short_summary": "A philosophical work by David Hume (1739).",
-    "central_argument": "",
+    "short_summary": "A Treatise of Human Nature explores human nature based on empiricism, presenting theories on topics like causation, personal identity, morality, and human understanding.",
+    "central_argument": "All ideas and concepts are derived from experience and have no basis in innate ideas or reason alone.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1627,10 +1811,15 @@
     "year": 2015,
     "tradition": "Empiricism",
     "key_concepts": [
-      "philosophy"
+      "impressions",
+      "ideas",
+      "association of ideas",
+      "habits of the mind",
+      "skepticism",
+      "passions and interests"
     ],
-    "short_summary": "A philosophical work by David Hume (2015).",
-    "central_argument": "",
+    "short_summary": "David Hume's 'Treatise of Human Nature', published in 1739-40, presents a foundational empiricist account of human understanding, explaining how we acquire ideas, develop beliefs, and form moral judgments based on experiences.",
+    "central_argument": "'Understanding is the result of impressions and ideas, with all knowledge ultimately derived from experience.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1640,10 +1829,15 @@
     "year": 1754,
     "tradition": "Empiricism",
     "key_concepts": [
-      "philosophy"
+      "empiricism",
+      "constitutionalism",
+      "monarchy",
+      "parliamentary democracy",
+      "political stability",
+      "rule of law"
     ],
-    "short_summary": "A philosophical work by David Hume (1754).",
-    "central_argument": "",
+    "short_summary": "David Hume's 'The History of England' is a six-volume political history that critically analyzes England's constitutional development from the Norman Conquest to the Glorious Revolution.",
+    "central_argument": "Hume argues for a gradual shift in power dynamics between monarchy and parliament, emphasizing the importance of political stability through the rule of law and representation.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1653,10 +1847,15 @@
     "year": 1954,
     "tradition": "Empiricism",
     "key_concepts": [
-      "philosophy"
+      "empiricism",
+      "skepticism",
+      "inductive reasoning",
+      "naturalism",
+      "cause and effect",
+      "morality"
     ],
-    "short_summary": "A philosophical work by Ernest Campbell Mossner (1954).",
-    "central_argument": "",
+    "short_summary": "Ernest Campbell Mossner's 'The Life of David Hume' is a comprehensive biography that explores the life, work, and philosophical contributions of the Scottish philosopher David Hume, a key figure in the Empiricist tradition.",
+    "central_argument": "'The Life of David Hume' does not present a central argument as it is a biographical account rather than a philosophical treatise.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1666,11 +1865,15 @@
     "year": 1751,
     "tradition": "Empiricism",
     "key_concepts": [
-      "ethics",
-      "humanistic ethics"
+      "empiricism",
+      "sentiment",
+      "reason",
+      "moral judgments",
+      "divine command",
+      "moral distinctions"
     ],
-    "short_summary": "A philosophical work by David Hume (1751).",
-    "central_argument": "",
+    "short_summary": "An Enquiry concerning the Principles of Morals discusses Hume's empiricist view on morality, arguing that moral judgments are derived from human sentiments and not from reason or divine command.",
+    "central_argument": "'Moral distinctions arise not from reason but from sentiment or feeling.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1680,10 +1883,15 @@
     "year": 1969,
     "tradition": "Empiricism",
     "key_concepts": [
-      "philosophy"
+      "skepticism",
+      "causality",
+      "empiricism",
+      "passion",
+      "custom",
+      "human nature"
     ],
-    "short_summary": "A philosophical work by David Hume (1969).",
-    "central_argument": "",
+    "short_summary": "The Essential David Hume is a collection of works by the Scottish philosopher, presenting his influential views on topics including skepticism, causality, and ethics within the empiricist tradition.",
+    "central_argument": "'Reason is the slave of the passions' – Hume argues that our beliefs are primarily based on custom and experience rather than reason alone, and that morals are derived from sentiments and human nature.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1693,12 +1901,14 @@
     "year": 1644,
     "tradition": "Rationalism",
     "key_concepts": [
-      "theory of knowledge",
-      "metaphysics",
-      "french language"
+      "cogito ergo sum",
+      "methodical doubt",
+      "clear and distinct ideas",
+      "innate ideas",
+      "Cartesian coordinates"
     ],
-    "short_summary": "A philosophical work by René Descartes (1644).",
-    "central_argument": "",
+    "short_summary": "Descartes outlines his method of doubt to arrive at indubitable truths and establish the foundations of modern science in this seminal work.",
+    "central_argument": "By doubting all knowledge acquired through senses and accepting only what can be logically deduced from self-evident truths, one can attain certainty.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1708,14 +1918,14 @@
     "year": 1642,
     "tradition": "Rationalism",
     "key_concepts": [
-      "god",
-      "knowledge, theory of",
-      "metaphysics",
-      "ontological proof",
-      "proof, ontological"
+      "methodical doubt",
+      "cogito",
+      "subjective certainty",
+      "Cartesian dualism",
+      "clear and distinct perceptions"
     ],
-    "short_summary": "A philosophical work by René Descartes (1642).",
-    "central_argument": "",
+    "short_summary": "Meditationes de prima philosophia, also known as Meditations on First Philosophy, is a work by René Descartes in which he presents his methodical doubt and arrives at his famous statement 'Cogito ergo sum' ('I think, therefore I am') as the foundation of knowledge.",
+    "central_argument": "'Cogito ergo sum': I think, therefore I exist', serving as the foundation for all subsequent knowledge",
     "related_books": [],
     "source": "open_library"
   },
@@ -1725,10 +1935,15 @@
     "year": 1991,
     "tradition": "Rationalism",
     "key_concepts": [
-      "philosophy"
+      "western philosophy",
+      "great conversation",
+      "continuity",
+      "dialogue",
+      "shared themes",
+      "philosophical history"
     ],
-    "short_summary": "A philosophical work by Norman Melchert (1991).",
-    "central_argument": "",
+    "short_summary": "The Great Conversation outlines the development of Western philosophy from ancient Greece through the modern era, emphasizing its ongoing dialogue and shared themes.",
+    "central_argument": "'Western philosophy has a continuous and coherent Great Conversation that transcends time periods, individuals, and schools of thought.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1738,10 +1953,14 @@
     "year": 1925,
     "tradition": "Rationalism",
     "key_concepts": [
-      "godsdienst"
+      "rationalism",
+      "cartesianism",
+      "jansenism",
+      "baroque",
+      "catholicism"
     ],
-    "short_summary": "A philosophical work by Jacques Maritain (1925).",
-    "central_argument": "",
+    "short_summary": "Three Reformers explores the lives and ideas of three influential thinkers in the history of Western philosophy: Descartes, Pascal, and Bossuet. The book discusses their contributions to rationalism and their impact on religious thought.",
+    "central_argument": "Maritain argues that these three reformers, despite their differences, shared a commitment to reconcile reason and faith in the context of the Catholic Church, shaping modern Western philosophy and theology.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1751,10 +1970,14 @@
     "year": 1909,
     "tradition": "Rationalism",
     "key_concepts": [
-      "ethics"
+      "cogito ergo sum",
+      "methodological skepticism",
+      "innate ideas",
+      "dualism",
+      "clear and distinct perceptions"
     ],
-    "short_summary": "A philosophical work by René Descartes (1909).",
-    "central_argument": "",
+    "short_summary": "Descartes presents his philosophical system in 'Discourse on Method', which outlines a method for seeking truth through doubt, lays the groundwork for modern philosophy, and introduces key concepts like cogito ergo sum (I think, therefore I am), innate ideas, and dualism.",
+    "central_argument": "The mind and body are distinct substances, each governed by different laws.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1764,10 +1987,15 @@
     "year": 1644,
     "tradition": "Rationalism",
     "key_concepts": [
-      "philosophy"
+      "cogito ergo sum",
+      "mind-body dualism",
+      "clear and distinct ideas",
+      "substance dualism",
+      "innate ideas",
+      "God as guarantor of truth"
     ],
-    "short_summary": "A philosophical work by René Descartes (1644).",
-    "central_argument": "",
+    "short_summary": "Principia Philosophiae, or 'The Principles of Philosophy', is Descartes' comprehensive account of his philosophy, outlining the foundations of knowledge, mind-body dualism, and God's existence within the framework of rationalism.",
+    "central_argument": "'Cogito ergo sum': I think therefore I am, the foundation of certainty and knowledge in Descartes' system.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1777,13 +2005,15 @@
     "year": 1994,
     "tradition": "Rationalism",
     "key_concepts": [
-      "physiological aspects",
-      "physiological aspects of emotions",
-      "physiological aspects of reason",
-      "reason"
+      "emotion",
+      "consciousness",
+      "rationality",
+      "mind-body problem",
+      "Descartes' view",
+      "neuroscience"
     ],
-    "short_summary": "A philosophical work by Antonio R. Damasio (1994).",
-    "central_argument": "",
+    "short_summary": "Descartes' Error explores how emotions and feelings influence rational decision-making, arguing that Descartes' view of mind as purely rational and separate from the body is inaccurate.",
+    "central_argument": "'Emotion systems are essential to producing a conscious self that can make rational decisions.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1793,10 +2023,15 @@
     "year": 1986,
     "tradition": "Rationalism",
     "key_concepts": [
-      "philosophy"
+      "rationalism",
+      "Cartesian dualism",
+      "cogito ergo sum",
+      "methodological doubt",
+      "mathematical idealism",
+      "ontological argument"
     ],
-    "short_summary": "A philosophical work by Philip J. Davis (1986).",
-    "central_argument": "",
+    "short_summary": "Descartes' Dream is a narrative exploration of Rene Descartes' philosophical ideas, discussing his influence on mathematics, science, and philosophy, presenting the philosopher as a dreamer who struggles to reconcile faith and reason.",
+    "central_argument": "'Reason alone can lead to certain knowledge', asserting that through rationalism, Descartes' methods paved the way for modern Western thought.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1806,14 +2041,15 @@
     "year": 1883,
     "tradition": "Rationalism",
     "key_concepts": [
-      "god",
-      "ethics",
-      "modern ethics",
-      "ethics, modern",
-      "knowledge, theory of"
+      "pantheism",
+      "attribute",
+      "substance",
+      "God's essence",
+      "mind-body unity",
+      "adequate idea"
     ],
-    "short_summary": "A philosophical work by Benedictus de Spinoza (1883).",
-    "central_argument": "",
+    "short_summary": "Ethica is a comprehensive philosophical treatise by Benedictus de Spinoza on metaphysics, epistemology, and ethics, expounding his pantheistic worldview, God's attributes, and human nature.",
+    "central_argument": "'God or substance consists of an infinite chain of attributes, of which thought and extension are two fundamental aspects, and humans have the capacity for knowledge of God through reason, leading to a blessed life.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1823,10 +2059,14 @@
     "year": 2010,
     "tradition": "Rationalism",
     "key_concepts": [
-      "ethics"
+      "god-or-nature",
+      "substance",
+      "attribution",
+      "infinity",
+      "monism"
     ],
-    "short_summary": "A philosophical work by Beth Lord (2010).",
-    "central_argument": "",
+    "short_summary": "Lord's 'Spinoza's Ethics' provides an accessible interpretation of Baruch Spinoza's groundbreaking philosophical work, focusing on its ethics, metaphysics, and politics.",
+    "central_argument": "'God or Nature is the sole substance, infinitely extended in space and time, and attributes such as thought and extension are but different expressions of this one substance.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1836,10 +2076,15 @@
     "year": 2023,
     "tradition": "Rationalism",
     "key_concepts": [
-      "philosophy"
+      "god-or-nature",
+      "substance",
+      "mode",
+      "attributed-to-god",
+      "pantheism",
+      "determinism"
     ],
-    "short_summary": "A philosophical work by Michael LeBuffe (2023).",
-    "central_argument": "",
+    "short_summary": "LeBuffe's 'Spinoza's Ethics' offers a comprehensive guide to Baruch Spinoza's seminal work 'Ethics', delving into its complex metaphysics, epistemology, and ethics.",
+    "central_argument": "'God or Nature is the sole substance in the universe; everything else is merely a mode of this substance.'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1849,10 +2094,15 @@
     "year": 2006,
     "tradition": "Rationalism",
     "key_concepts": [
-      "ethics"
+      "god-or-nature",
+      "substance",
+      "attributes",
+      "pantheism",
+      "rationalism",
+      "infinite-intellect"
     ],
-    "short_summary": "A philosophical work by Steven Nadler (2006).",
-    "central_argument": "",
+    "short_summary": "Steven Nadler's 'Spinoza's Ethics' is a comprehensive analysis of Baruch Spinoza's groundbreaking work, 'Ethics', providing insights into its metaphysics, epistemology, and the unique blend of pantheism and rationalism.",
+    "central_argument": "'God or Nature is the only substance that exists, and it is expressed in two attributes: thought (attribute of God as infinite intellect) and extension (attribute of God as the physical universe).'",
     "related_books": [],
     "source": "open_library"
   },
@@ -1862,10 +2112,15 @@
     "year": 2007,
     "tradition": "Rationalism",
     "key_concepts": [
-      "ethics"
+      "substance",
+      "attribute",
+      "God-nature unity",
+      "determinism",
+      "ethics",
+      "good"
     ],
-    "short_summary": "A philosophical work by J. Thomas Cook (2007).",
-    "central_argument": "",
+    "short_summary": "J. Thomas Cook's 'Spinoza's Ethics' offers a comprehensive interpretation of Spinoza's philosophical treatise, exploring its metaphysical underpinnings and ethical implications.",
+    "central_argument": "'Ethics' argues for the unity of God, nature, and the individual through the concept of substance and attributes, leading to a deterministic yet harmonious understanding of existence.",
     "related_books": [],
     "source": "open_library"
   },
@@ -1875,10 +2130,15 @@
     "year": 2017,
     "tradition": "Rationalism",
     "key_concepts": [
-      "ethics"
+      "god",
+      "substance",
+      "attribution",
+      "causality",
+      "affective determinism",
+      "spinozist pantheism"
     ],
-    "short_summary": "A philosophical work by Yitzhak Y. Melamed (2017).",
-    "central_argument": "",
+    "short_summary": "Yitzhak Y. Melamed's 'Spinoza's Ethics' provides a comprehensive exploration of the philosophical work 'Ethics' by Baruch Spinoza, focusing on its arguments for God, human nature, and moral living.",
+    "central_argument": "'God is the immanent cause of all things, and we are part of this single substance, striving for greater understanding and harmony as expressions of God's attributes'",
     "related_books": [],
     "source": "open_library"
   },

@@ -7,6 +7,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from compare    import compare_thinkers, print_comparison
 from timeline   import build_timeline, print_timeline, timeline_summary
 from traditions import build_tradition_map, print_tradition_map, tradition_detail
+from validator  import validate_books, match_author, match_concept, match_tradition, match_title
 
 DATA_FILE = Path(__file__).parent.parent / "data" / "books.json"
 
@@ -15,7 +16,9 @@ def load_books():
     if not DATA_FILE.exists():
         raise SystemExit(f"Error: {DATA_FILE} not found")
     with open(DATA_FILE, encoding="utf-8") as f:
-        return json.load(f)
+        books = json.load(f)
+    validate_books(books)
+    return books
 
 
 def year_str(y):
@@ -24,21 +27,17 @@ def year_str(y):
 
 
 def search_author(books, q):
-    q = q.lower()
-    return [b for b in books if q in b.get("author","").lower()]
+    return [b for b in books if match_author(b, q)]
 
 def search_concept(books, q):
-    q = q.lower()
-    return [b for b in books if any(q in c.lower() for c in b.get("key_concepts",[]))]
+    return [b for b in books if match_concept(b, q)]
 
 def search_tradition(books, q):
-    q = q.lower()
-    return [b for b in books if q in b.get("tradition","").lower()]
+    return [b for b in books if match_tradition(b, q)]
 
 def find_book(books, q):
-    q = q.lower()
     for b in books:
-        if q in b.get("title","").lower(): return b
+        if match_title(b, q): return b
     return None
 
 
