@@ -2661,10 +2661,15 @@
     "year": 1967,
     "tradition": "Existentialism",
     "key_concepts": [
-      "french language materials"
+      "existentialism",
+      "freedom",
+      "self-realization",
+      "otherness",
+      "gender roles",
+      "societal expectations"
     ],
-    "short_summary": "A philosophical work by Simone de Beauvoir (1967).",
-    "central_argument": "",
+    "short_summary": "The Woman Destroyed is a collection of three novels that explore women's lives from different perspectives, revealing societal expectations and restrictions placed upon them.",
+    "central_argument": "The central argument is that women are socially constructed to be submissive and dependent, which limits their freedom and personal development.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2674,11 +2679,15 @@
     "year": 1947,
     "tradition": "Existentialism",
     "key_concepts": [
+      "ambiguity",
       "ethics",
-      "ethics & moral philosophy - theoretical"
+      "existentialism",
+      "personal responsibility",
+      "freedom",
+      "indeterminacy"
     ],
-    "short_summary": "A philosophical work by Simone de Beauvoir (1947).",
-    "central_argument": "",
+    "short_summary": "Pour une morale de l'ambiguite delves into the complexities of moral choices, arguing that individuals must accept personal responsibility for their actions and decisions in an ambiguous world.",
+    "central_argument": "Individuals have the freedom to make ethical choices, but they are also responsible for the consequences of those choices, even when faced with ambiguity.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2688,10 +2697,15 @@
     "year": 1946,
     "tradition": "Existentialism",
     "key_concepts": [
-      "philosophy"
+      "existentialism",
+      "personal freedom",
+      "authenticity",
+      "otherness",
+      "bad faith",
+      "absurdity"
     ],
-    "short_summary": "A philosophical work by Simone de Beauvoir (1946).",
-    "central_argument": "",
+    "short_summary": "Tous les hommes sont mortels explores existentialist themes through the life of a young Frenchman named Jean, examining his personal growth, free will, and relationships.",
+    "central_argument": "'Existence precedes essence': individuals create their own meaning and purpose in life as they face choices and consequences.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2701,10 +2715,15 @@
     "year": 1966,
     "tradition": "Existentialism",
     "key_concepts": [
-      "russian language books"
+      "existentialism",
+      "personal freedom",
+      "gender roles",
+      "identity",
+      "self-discovery",
+      "societal norms"
     ],
-    "short_summary": "A philosophical work by Simone de Beauvoir (1966).",
-    "central_argument": "",
+    "short_summary": "Les Belles Images is a novel by Simone de Beauvoir that explores themes of identity, gender roles, and personal freedom through the lives of its characters.",
+    "central_argument": "'Beautiful Images' argues for the importance of individual autonomy and self-discovery, challenging societal norms and expectations, particularly regarding women's roles and relationships.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2714,11 +2733,15 @@
     "year": 1750,
     "tradition": "Eastern Philosophy",
     "key_concepts": [
-      "ethics",
-      "chinese ethics"
+      "ren",
+      "li",
+      "de",
+      "xin",
+      "zhong",
+      "si"
     ],
-    "short_summary": "A philosophical work by Confucius (1750).",
-    "central_argument": "",
+    "short_summary": "Lun yu, also known as The Analects, is a collection of Confucius' sayings and teachings on governance, morality, and proper behavior.",
+    "central_argument": "Adherence to moral principles and personal self-cultivation lead to harmony in society.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2728,12 +2751,15 @@
     "year": 1904,
     "tradition": "Eastern Philosophy",
     "key_concepts": [
-      "ethics",
-      "chinese ethics",
-      "confucian ethics"
+      "benevolence",
+      "righteousness",
+      "propriety",
+      "wisdom",
+      "music",
+      "Tian"
     ],
-    "short_summary": "A philosophical work by Confucius (1904).",
-    "central_argument": "",
+    "short_summary": "Lunyu, also known as The Analects, is a collection of Confucius' sayings and thoughts on governance, morality, and life. It provides insights into Chinese philosophy and ethics.",
+    "central_argument": "The ideal ruler should lead by example and act with benevolence, righteousness, propriety, wisdom, and music to create harmony in society.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2743,10 +2769,15 @@
     "year": 2003,
     "tradition": "Eastern Philosophy",
     "key_concepts": [
-      "philosophy"
+      "ren",
+      "li",
+      "xiao",
+      "ji",
+      "zhong",
+      "meng"
     ],
-    "short_summary": "A philosophical work by Confucius (2003).",
-    "central_argument": "",
+    "short_summary": "The Analects of Confucius is a collection of his teachings, reflecting on moral self-cultivation, governance, and social interactions in ancient China.",
+    "central_argument": "'Ren' (humanity) and 'Li' (rituals or propriety) are essential for a harmonious society, where individuals strive for personal virtue and moral rectitude.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2756,10 +2787,15 @@
     "year": 1900,
     "tradition": "Eastern Philosophy",
     "key_concepts": [
-      "philosophy"
+      "ren",
+      "li",
+      "xiao",
+      "zi-de",
+      "junzi",
+      "wen"
     ],
-    "short_summary": "A philosophical work by Confucius (1900).",
-    "central_argument": "",
+    "short_summary": "Lun yü, also known as The Analects, is a collection of sayings and ideas attributed to Confucius and his contemporaries, focusing on moral self-cultivation and ethical leadership in ancient China.",
+    "central_argument": "The central argument emphasizes the importance of virtuous character, proper rituals, and effective governance for personal and societal harmony.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2769,10 +2805,14 @@
     "year": 1895,
     "tradition": "Eastern Philosophy",
     "key_concepts": [
-      "ethics"
+      "li (ritual propriety)",
+      "ren (benevolence)",
+      "xin (heart-mind)",
+      "junzi (noble man)",
+      "wen (culture/arts)"
     ],
-    "short_summary": "A philosophical work by Confucius (1895).",
-    "central_argument": "",
+    "short_summary": "The Confucian Analects is a collection of sayings and ideas attributed to Chinese philosopher Confucius and his followers. It offers insights into morality, correct behavior, and governance.",
+    "central_argument": "Living in harmony with others through moral self-cultivation, following the teachings of ritual propriety, benevolence, and wisdom is essential for individual and societal wellbeing.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2782,10 +2822,15 @@
     "year": 1979,
     "tradition": "Eastern Philosophy",
     "key_concepts": [
-      "philosophy"
+      "junzi",
+      "ren",
+      "li",
+      "xiao",
+      "zen",
+      "mengzi"
     ],
-    "short_summary": "A philosophical work by Confucius (1979).",
-    "central_argument": "",
+    "short_summary": "The Analects is a collection of sayings and ideas attributed to Confucius and his contemporaries. It explores moral self-cultivation, correct behavior, and the importance of education in Chinese society.",
+    "central_argument": "Cultivating personal virtue through ethical self-reflection and following ritual propriety is essential for harmonious social relationships and good governance.",
     "related_books": [],
     "source": "open_library"
   },
@@ -2795,10 +2840,15 @@
     "year": 2016,
     "tradition": "Eastern Philosophy",
     "key_concepts": [
-      "philosophy"
+      "junzi",
+      "ren",
+      "li",
+      "xin",
+      "de",
+      "mengzi"
     ],
-    "short_summary": "A philosophical work by Len Losik (2016).",
-    "central_argument": "",
+    "short_summary": "The Confucius Analects by Len Losik offers a modern interpretation of the ancient Chinese philosophical texts attributed to Confucius, exploring his teachings on ethics, governance, and personal development.",
+    "central_argument": "'Following the path of the sage' is central to Confucian philosophy, emphasizing moral self-cultivation and ethical conduct in social relationships as a means to achieve harmony and balance in society.",
     "related_books": [],
     "source": "open_library"
   }
